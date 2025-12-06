@@ -1,0 +1,45 @@
+ul {
+    display: inline;
+  list-style-type: none;
+  text-align: center;
+}
+
+li {display: inline;
+float: left;
+margin-right: 2em;
+
+a {
+    font-size: 1.5em;
+color: rgb(54,54,54);
+margin-bottom: 0.3em;
+}
+a:hover {
+    color: rgb(54,54,54);
+    border-bottom-color: rgb(194, 0, 8) ;
+    border-bottom-width: 0.3em;
+    border-bottom-style: solid;
+    margin-bottom: 0;
+
+}
+
+
+}
+
+.activeLink {
+color: rgb(194, 0, 8) ;
+}
+
+footer {
+    a{
+        color: white;
+        margin-left: 1.5em;
+    }
+    a:hover {
+        text-decoration: underline;
+    }
+    color: white;
+    text-align: center;
+    height: 5em;
+    font-size: 1.3em;
+    background-color: rgb(58, 58, 58);
+}

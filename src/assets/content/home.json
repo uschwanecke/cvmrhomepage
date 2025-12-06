@@ -1,0 +1,10 @@
+{
+    "content":[ "Welcome to the Computer Vision and Mixed Reality Group, which is part of the Department of Design, Computer Science and Media and is headed by Prof. Dr. Ulrich Schwanecke.",
+        "Our research and teaching activities focus on Computer Graphics and Computer Vision as well as Human Computer Interaction. Please see our research pages, youtube channel, publication list, or overview of completed theses and projects for details. You can also find a nice presentation of some of our projects here.",
+        "Information about our educational activities can be found in the overview of offered courses and seminars. Students who are interested in bachelor and master theses or master projects please see our announcements of <a href='thesesandprojects'>possible topics.</a>"
+    ],
+    "carousel":[
+        "assets/images/home/bienen.jpg",
+        "assets/images/home/bienen.jpg"
+    ]
+}

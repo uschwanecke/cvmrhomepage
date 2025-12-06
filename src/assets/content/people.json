@@ -1,0 +1,34 @@
+
+    {
+        "head": {
+            "name": "Prof. Dr. Ulrich Schwanecke",
+            "image": "assets/images/people/uschwanecke.jpg",
+            "desc": "Program manager Masterstudiengänge Informatik, Co-Founder aivju GmbH",
+            "phone": "+49 (0)611 9495 1254",
+            "mail": "ulrich.schwanecke at hs-rm.de"
+        },
+        "researchAssistances": [
+            {
+                "name": "M.Sc. Robert Brylka",
+                "image": "assets/images/people/robertbrylka.png",
+                "mail": "robert.brylka at hs-rm.de"
+            },
+            {
+                "name": "M.Sc. Maxim Dolgich",
+                "image": "assets/images/people/maximdolgich-2.png",
+                "mail": "maxim.dolgich at hs-rm.de"
+            },
+            {
+                "name": "M.Sc. Daniela Calvus",
+                "image": "assets/images/people/danielacalvus-2.png",
+                "mail": "daniela.calvus at hs-rm.de"
+            }
+        ],
+        "FormerResearchAssistantsAndProgrammers": [
+            {
+                "name": "Dr. Marc Lieser",
+                "image": "assets/images/people/marclieser-2.png",
+                "desc": "fpv.marclieser.de"
+            }
+        ]
+    }

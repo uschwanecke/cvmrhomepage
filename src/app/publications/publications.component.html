@@ -1,0 +1,10 @@
+<div class="container">
+
+<h1>Publications and Talks</h1>
+
+<div *ngFor="let yearpubs of data?.pubyears">
+    <h3>{{yearpubs.year}}</h3>
+        <app-publication *ngFor="let publication of yearpubs.publications" [year]="yearpubs.year" [publication]="publication"></app-publication>
+
+</div>
+</div>

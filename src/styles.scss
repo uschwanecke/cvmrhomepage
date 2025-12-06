@@ -1,0 +1,16 @@
+/* You can add global styles to this file, and also import other style files */
+@font-face {
+  font-family: 'flama';
+    src: url("assets/font/Flama-Book.otf");
+
+}
+
+* {
+    font-family: flama, sans-serif;
+}
+
+p {
+    font-size: 1.2em;
+}
+/* Importing Bootstrap SCSS file. */
+@import 'bootstrap/scss/bootstrap';

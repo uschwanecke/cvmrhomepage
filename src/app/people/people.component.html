@@ -1,0 +1,18 @@
+<div class="container"><h2>Head</h2>
+<div class="d-flex justify-content-center me-4">
+<app-person [person]="data?.head"></app-person>
+</div>
+
+<h3 class="mt-4">Current Reserach Assistances</h3>
+<div class="d-flex justify-content-evenly me-4">
+
+<app-person *ngFor="let assis of data?.researchAssistances" [person]="assis"></app-person>
+
+</div>
+    
+<h3 class="mt-4">Former Reserach Assistances and Programmers</h3>
+
+<div class="d-flex justify-content-evenly">
+    <app-person *ngFor="let assis of data?.FormerResearchAssistantsAndProgrammers" [person]="assis"></app-person>
+</div>
+</div>

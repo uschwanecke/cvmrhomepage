@@ -1,0 +1,20 @@
+
+
+
+<div class="card mb-3" style="max-width: 30rem;">
+  <div class="row g-0">
+    <div class="col-md-4">
+      <img  [src]="person?.image" class="img-fluid rounded-start" alt="...">
+    </div>
+    <div class="col-md-8">
+      <div class="card-body">
+        <h5 class="card-title">{{person?.name}}</h5>
+        <p class="card-text">    {{person?.mail}}
+    <div class="mb-3" *ngIf="person?.phone">{{person?.phone}}</div>{{person?.desc}}
+
+      </div>
+    </div>
+  </div>
+</div>
+
+

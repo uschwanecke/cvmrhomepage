@@ -1,0 +1,45 @@
+{
+    "pubyears": [
+        {
+            "year": 2025,
+            "publications": [
+                {
+                    "authors": "Runte, F.; Menzel, T.; Schwanecke, U.; Botsch, M.",
+                    "title": "Compensating Motion-Induced Errors in Smartphone-Based VR Avatar Reconstruction",
+                    "further": "ACM Symposium on Virtual Reality Software an Technology (to appear)",
+                    "image": "assets/images/publications/motioncompavatars.png",
+                    "linklist": [
+                        {
+                            "link": "",
+                            "displaytext": "pdf"
+                        }
+                    ]
+                },
+                {
+                    "authors": "Shumaly, S.; Darvish, F.; Salehi, M.; Foumani, N. M.; Kukharenko, O.; Butt, H.; Schwanecke, U.; Berger, R",
+                    "title": "CNN-Transformer with Absolute Positional Encoding Optimized for Low-Dimensional Inputs: Applied to Estimate Sliding Drop Width",
+                    "further": " ECML PKDD",
+                    "image": "assets/images/publications/dropwidth_ecml2025-2.png",
+                    "linklist": [
+                        {
+                            "link": "https://www.mi.hs-rm.de/~schwan/resources/Paper/drop_ecml2025.pdf",
+                            "displaytext": "pdf"
+                        }
+                    ]
+                },
+                                {
+                    "authors": "Shumaly, S.; Darvish, F.; Salehi, M.; Foumani, N. M.; Kukharenko, O.; Butt, H.; Schwanecke, U.; Berger, R",
+                    "title": "CNN-Transformer with Absolute Positional Encoding Optimized for Low-Dimensional Inputs: Applied to Estimate Sliding Drop Width",
+                    "further": " ECML PKDD",
+                    "image": "assets/images/publications/dropwidth_ecml2025-2.png",
+                    "linklist": [
+                        {
+                            "link": "https://www.mi.hs-rm.de/~schwan/resources/Paper/drop_ecml2025.pdf",
+                            "displaytext": "pdf"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

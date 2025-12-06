@@ -1,0 +1,27 @@
+{"research":[
+    {
+        "title": "DeepLearningCargo",
+        "desc": "The DeepLearningCargo project will primarily contribute to basic research in the area of AI generalization and explainability. However, in the orientation of its scientific research design for hypothesis testing, it will take up aspects from the areas of Aviation Next Generation, logistics, mobility and digital transformation. In this respect, the project addresses central topics of the HOLM research agenda. ",
+        "images": [
+            "assets/images/research/hmwevw_logo_4c_small.jpg",
+            "assets/images/research/logo_ha_gro_small.jpg",
+            "assets/images/research/logoholmkurzwebformat_small-2.jpg"
+        ]
+    },
+        {
+        "title": "ATRIUM – dATa dRiven sImulation ob bUlk Materials",
+        "desc": "In this R&D project, a new framework will be developed with which the simulation and visualization of various bulk materials can be carried out in real time. In contrast to current simulation methods, a new data-based approach will be used, where the behaviour of the bulk material is predicted with the help of AI instead of being calculated on the basis of physically motivated equations. Using the results from classical calculations, training data is generated and a suitable regression model is developed to train a convolutional neural network to predict the simulation results. This promises a considerable acceleration of the simulation calculation. The saved computing power is then used to achieve a more detailed and realistic visualization or to enable certain simulations even on less powerful devices. ",
+        "images": [
+            "assets/images/research/zim_logo-3-3.jpg"
+        ]
+    },
+        {
+        "title": "VIDEOTRACK 2D/3D",
+        "desc": "In this project, the basis shall be created to solve a number of different tracking problems by means of optical measurement methods. Essentially, a flexibly configurable software system is to be designed and implemented. On the one hand, the system should be able to process and store different input data (e.g. images of different (mono and stereo) camera systems and signals from microphones). It must be ensured that the corresponding signals can be synchronized in time.i In addition to a manual mode, in which the tracking of a piece of sports equipment is explicitly started by the user of the software, various automatic or semi-automatic procedures are also planned, in which a tracking process is triggered, for example, by an external signal (trigger via network or audio signal from a microphone) or by events detected in the video stream. With the planned system, not only different trigger modes but also different tracking methods should be possible. The range is to range from simple brand-based methods, which also work with inexpensive webcams, to complex brand-less methods, which do not require any augmentation of the corresponding sports equipment. ",
+        "images": [
+            "assets/images/research/bisp_logo.png"
+        ]
+    }
+]
+}
+
