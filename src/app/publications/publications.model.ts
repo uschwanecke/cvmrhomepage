@@ -9,6 +9,7 @@ export interface Publication {
     further: string;
     linklist: PublicationLink[];
     image: string;
+    active: boolean | undefined;
 
 }
 export interface PublicationYear {

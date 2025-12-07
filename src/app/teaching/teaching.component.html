@@ -1,3 +1,13 @@
 <div class="container">
-    <h2>Teaching</h2>
+    <h1>Teaching</h1>
+
+    <div *ngFor="let semester of data?.semesters" class="mb-4">
+    <h3>{{semester.text}}</h3>
+        <div *ngFor="let lecture of semester.lectures">
+            <span *ngIf="lecture.active == undefined || lecture.active">
+            <a [href]="lecture.link">{{lecture.displaytext}}</a>&nbsp;{{lecture.additionalInformation}}
+            </span>
+        </div>
+
+</div>
 </div>

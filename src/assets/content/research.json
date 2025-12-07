@@ -6,14 +6,16 @@
             "assets/images/research/hmwevw_logo_4c_small.jpg",
             "assets/images/research/logo_ha_gro_small.jpg",
             "assets/images/research/logoholmkurzwebformat_small-2.jpg"
-        ]
+        ],
+        "active": true
     },
         {
         "title": "ATRIUM – dATa dRiven sImulation ob bUlk Materials",
         "desc": "In this R&D project, a new framework will be developed with which the simulation and visualization of various bulk materials can be carried out in real time. In contrast to current simulation methods, a new data-based approach will be used, where the behaviour of the bulk material is predicted with the help of AI instead of being calculated on the basis of physically motivated equations. Using the results from classical calculations, training data is generated and a suitable regression model is developed to train a convolutional neural network to predict the simulation results. This promises a considerable acceleration of the simulation calculation. The saved computing power is then used to achieve a more detailed and realistic visualization or to enable certain simulations even on less powerful devices. ",
         "images": [
             "assets/images/research/zim_logo-3-3.jpg"
-        ]
+        ],
+        "active": false
     },
         {
         "title": "VIDEOTRACK 2D/3D",

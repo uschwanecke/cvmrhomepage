@@ -5,13 +5,15 @@
             "image": "assets/images/people/uschwanecke.jpg",
             "desc": "Program manager Masterstudiengänge Informatik, Co-Founder aivju GmbH",
             "phone": "+49 (0)611 9495 1254",
-            "mail": "ulrich.schwanecke at hs-rm.de"
+            "mail": "ulrich.schwanecke at hs-rm.de",
+            "active": true
         },
         "researchAssistances": [
             {
                 "name": "M.Sc. Robert Brylka",
                 "image": "assets/images/people/robertbrylka.png",
-                "mail": "robert.brylka at hs-rm.de"
+                "mail": "robert.brylka at hs-rm.de",
+                "active": true
             },
             {
                 "name": "M.Sc. Maxim Dolgich",

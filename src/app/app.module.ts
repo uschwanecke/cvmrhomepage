@@ -14,7 +14,7 @@ import { HomeComponent } from './home/home.component';
 import { HttpClientModule } from '@angular/common/http';
 import { PersonComponent } from './people/person/person.component';
 import { PublicationComponent } from './publications/publication/publication.component';
-import { NgbModule } from '@ng-bootstrap/ng-bootstrap';
+import { NgbCarousel, NgbCarouselModule, NgbModule } from '@ng-bootstrap/ng-bootstrap';
 @NgModule({
   declarations: [
     AppComponent,
@@ -33,6 +33,7 @@ import { NgbModule } from '@ng-bootstrap/ng-bootstrap';
     AppRoutingModule,
      HttpClientModule,
      NgbModule,
+     NgbCarouselModule
   ],
   providers: [],
   bootstrap: [AppComponent]

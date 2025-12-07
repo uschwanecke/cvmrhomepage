@@ -1,0 +1,9 @@
+span > a {
+    color: rgb(194, 0, 8);
+    text-decoration: none;
+    font-size: large;
+    &:hover {
+        text-decoration: underline;
+    }
+
+}

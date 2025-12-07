@@ -13,7 +13,8 @@
                             "link": "",
                             "displaytext": "pdf"
                         }
-                    ]
+                    ],
+                    "active": true
                 },
                 {
                     "authors": "Shumaly, S.; Darvish, F.; Salehi, M.; Foumani, N. M.; Kukharenko, O.; Butt, H.; Schwanecke, U.; Berger, R",
@@ -25,19 +26,210 @@
                             "link": "https://www.mi.hs-rm.de/~schwan/resources/Paper/drop_ecml2025.pdf",
                             "displaytext": "pdf"
                         }
+                    ],
+                    "active": true
+                },
+                                {
+                    "authors": "Menzel, T.; Wolf, E; Wenninger, S.; Spinczyk, N.; Holderrieth, L.; Wienrich, C.; Schwanecke, U.; Latoschik, M. E..; Botsch, M.; ",
+                    "title": "Avatars for the Masses: Smartphone-Based Reconstruction of Humans for Virtual Reality",
+                    "further": "Frontiers in Virtual Reality 6, 2025",
+                    "image": "assets/images/publications/avatarsforthemasses-2.png",
+                    "linklist": [
+                        {
+                            "link": "https://www.mi.hs-rm.de/~schwan/resources/Paper/2025-mass-avatars.pdf",
+                            "displaytext": "PDF"
+                        },
+                        {
+                            "link": "https://www.mi.hs-rm.de/~schwan/resources/Paper/2025-mass-avatars.supplementary.pdf",
+                            "displaytext": "Supp. Mat PDF"
+                        },
+                        {
+                            "link": "https://www.mi.hs-rm.de/~schwan/resources/Videos/2025-mass-avatars.mp4",
+                            "displaytext": "video"
+                        }
                     ]
                 },
                                 {
-                    "authors": "Shumaly, S.; Darvish, F.; Salehi, M.; Foumani, N. M.; Kukharenko, O.; Butt, H.; Schwanecke, U.; Berger, R",
-                    "title": "CNN-Transformer with Absolute Positional Encoding Optimized for Low-Dimensional Inputs: Applied to Estimate Sliding Drop Width",
-                    "further": " ECML PKDD",
-                    "image": "assets/images/publications/dropwidth_ecml2025-2.png",
+                    "authors": "Ali, H.; Stahl, F.; Dolgich, M.; Schwanecke, U.; Ulges, A.; Shafait, F.; ",
+                    "title": "RGB Super-Resolution for Multispectral Remote Sensing Images",
+                    "further": " IGRASS 202",
+                    "image": "assets/images/publications/igrass2025-2.png",
                     "linklist": [
                         {
-                            "link": "https://www.mi.hs-rm.de/~schwan/resources/Paper/drop_ecml2025.pdf",
+                            "link": "https://www.mi.hs-rm.de/~schwan/resources/Paper/MULTISPECTRAL_SUPERRESOLUTION_FORREMOTE_SENSING_RGB_IMAGES_paper.pdf",
+                            "displaytext": "pdf"
+                        },
+                                                {
+                            "link": "https://www.mi.hs-rm.de/~schwan/resources/Paper/MULTISPECTRAL_SUPERRESOLUTION_FORREMOTE_SENSING_RGB_IMAGES.pdf",
+                            "displaytext": "Poster"
+                        }
+                    ],
+                    "active": true
+                },
+                {
+                    "authors": "Martin, K.; Katsaros, C.; Brylka, R.; Schwanecke, U.; Schulze, R.; ",
+                    "title": "Influence of patient motion on definition of typical cephalometric reference points in digital horizontally scanning cephalometric radiography",
+                    "further": "Head Face Med 21,18 (2025)",
+                    "image": "assets/images/publications/fig2_web-2.png",
+                    "linklist": [
+                        {
+                            "link": "https://www.mi.hs-rm.de/~schwan/resources/Paper/s13005-025-00491-z.pdf",
+                            "displaytext": "pdf"
+                        },
+                                                {
+                            "link": "https://doi.org/10.1186/s13005-025-00491-z",
+                            "displaytext": "doi"
+                        }
+                    ],
+                    "active": true
+                },
+                                {
+                    "authors": "Schramm, R.; Fedrizzi, G.; Sasalovici, M.; Freiwald, J.; Schwanecke, U.; ",
+                    "title": "Augmented Journeys: Interactive Points of Interest for In-Car Augmented Reality",
+                    "further": "CHI'25, Article No.: 77, pp 1-19 [Honorable Mention]",
+                    "image": "assets/images/publications/augmentedjourney_2025-2.png",
+                    "linklist": [
+                        {
+                            "link": "https://www.mi.hs-rm.de/~schwan/resources/Paper/Augmented_Journeys.pdf",
+                            "displaytext": "pdf"
+                        },
+                                                {
+                            "link": "https://doi.org/10.1145/3706598.3714323",
+                            "displaytext": "doi"
+                        }
+                    ],
+                    "active": true
+                },
+                 {
+                    "authors": "Schramm, R.; Sasalovici, M. ; Freiwald, J.; Otto, M.; Reinelt, M.; Schwanecke, U.; ",
+                    "title": "Blending the Worlds: An evaluation of World-Fixed Visual Appearances in Automotive Augmented Reality",
+                    "further": " CHI'25, Article No.: 78, pp 1-23",
+                    "image": "assets/images/publications/blendingtheworld.png",
+                    "linklist": [
+                        {
+                            "link": "https://www.mi.hs-rm.de/~schwan/resources/Paper/Blending_the_Worlds.pdf",
+                            "displaytext": "pdf"
+                        },
+                                                {
+                            "link": "https://doi.org/10.1145/3706598.3713185",
+                            "displaytext": "doi"
+                        }
+                    ],
+                    "active": true
+                },
+                 {
+                    "authors": "Wagner, N.; Schwanecke, U.; Botsch, M.; ",
+                    "title": "NePHIM: A Neural Physics-Based Head-Hand Interaction Model",
+                    "further": "NePHIM: A Neural Physics-Based Head-Hand Interaction Model",
+                    "image": "assets/images/publications/nephim-3-2.png",
+                    "linklist": [
+                        {
+                            "link": "https://www.mi.hs-rm.de/~schwan/resources/Paper/2025-head-hands.pdf",
+                            "displaytext": "pdf"
+                        },
+                                                {
+                            "link": "https://www.mi.hs-rm.de/~schwan/resources/Videos/2025-head-hands.mp4",
+                            "displaytext": "video"
+                        },
+                                                {
+                            "link": "https://gitlab.cs.hs-rm.de/cvmr_releases/HeadHand",
+                            "displaytext": "code"
+                        },                        {
+                            "link": "http://cvmr.info/NePHIM/head_hand_data.zip",
+                            "displaytext": "data"
+                        },                        {
+                            "link": "https://doi.org/10.1111/cgf.70045",
+                            "displaytext": "doi"
+                        }
+                    ],
+                    "active": true
+                },
+                 {
+                    "authors": "Calvus, D.; Wüppenhorst, K.; Schlösser, R., Klaus, F.; Schwanecke, U.; Geil, H.; ",
+                    "title": "In-field monitoring of ground-nesting insect aggregations using a scaleable multi-camera system",
+                    "further": "Ecological Informatics 2025",
+                    "image": "assets/images/publications/longtermmonitoring-2.png",
+                    "linklist": [
+                        {
+                            "link": "https://authors.elsevier.com/sd/article/S1574-9541(25)00013-5",
+                            "displaytext": "url"
+                        },
+                                                {
+                            "link": "https://doi.org/10.1016/j.ecoinf.2025.103004",
                             "displaytext": "pdf"
                         }
-                    ]
+                    ],
+                    "active": true
+                }]
+        },
+                {
+            "year": 2024,
+            "publications": [
+
+                 {
+                    "authors": "",
+                    "title": "",
+                    "further": "",
+                    "image": "assets/images/publications/",
+                    "linklist": [
+                        {
+                            "link": "",
+                            "displaytext": "pdf"
+                        }
+                    ],
+                    "active": false
+                },
+                 {
+                    "authors": "",
+                    "title": "",
+                    "further": "",
+                    "image": "assets/images/publications/",
+                    "linklist": [
+                        {
+                            "link": "",
+                            "displaytext": "pdf"
+                        }
+                    ],
+                    "active": false
+                },
+                 {
+                    "authors": "",
+                    "title": "",
+                    "further": "",
+                    "image": "assets/images/publications/",
+                    "linklist": [
+                        {
+                            "link": "",
+                            "displaytext": "pdf"
+                        }
+                    ],
+                    "active": false
+                },
+                 {
+                    "authors": "",
+                    "title": "",
+                    "further": "",
+                    "image": "assets/images/publications/",
+                    "linklist": [
+                        {
+                            "link": "",
+                            "displaytext": "pdf"
+                        }
+                    ],
+                    "active": false
+                },
+                 {
+                    "authors": "",
+                    "title": "",
+                    "further": "",
+                    "image": "assets/images/publications/",
+                    "linklist": [
+                        {
+                            "link": "",
+                            "displaytext": "pdf"
+                        }
+                    ],
+                    "active": false
                 }
             ]
         }

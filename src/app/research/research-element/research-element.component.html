@@ -1,9 +1,9 @@
-<div class="card mb-3" style="max-width: 70hw;">
+<div *ngIf="research?.active==undefined || research?.active" class="card mb-3" style="max-width: 70hw;">
   <div class="row g-0">
     <div class="col-md-4 ">
       
       <div class="cardimage" *ngFor="let image of research?.images">
-        <img [src]="image" class="img-responsive rounded-start" alt="...">
+        <img [src]="image" class="img-responsive rounded-start" [alt]="research?.title">
       </div> 
     </div>
     <div class="col-md-8">

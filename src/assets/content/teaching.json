@@ -1,0 +1,63 @@
+{
+    "semesters": [
+        {
+            "text": "Lectures in summer term 2025",
+            "lectures": [
+                {
+                    "link": "https://www.mi.hs-rm.de/~schwan/lectures/CGSoSe2025/",
+                    "displaytext": "Computergrafik",
+                    "additionalInformation": "(Bachelorstudiengang Medieninformatik)"
+                },
+                {
+                    "link": "https://www.mi.hs-rm.de/~schwan/lectures/AVCSoSe2025/",
+                    "displaytext": "Applied Visual Computing",
+                    "additionalInformation": "(Masterstudiengang Informatik)"
+                },
+                {
+                    "link": "http://cvmr.info/lectures/3DCVSoSe25/",
+                    "displaytext": "3D Vision and Deep Learning ",
+                    "additionalInformation": "(Johannes Gutenberg-Universität Mainz)"
+                }
+            ]
+        },
+        {
+            "text": "Lectures in winter term 2024/2025",
+            "lectures": [
+                {
+                    "link": "https://www.mi.hs-rm.de/~schwan/teaching/matheFuerInformatiker/",
+                    "displaytext": "Angewandte Mathematik",
+                    "additionalInformation": "(Bachelorstudiengang Medieninformatik)"
+                },
+                {
+                    "link": "",
+                    "displaytext": "Methods and Technologies of Visual Computing",
+                    "additionalInformation": "(Masterstudiengang Liste Medieninformatik)"
+                },
+                {
+                    "link": "http://cvmr.info/lectures/2DCVWS2425/",
+                    "displaytext": "2D Vision and Deep Learning ",
+                    "additionalInformation": "(Johannes Gutenberg-Universität Mainz)"
+                }
+            ]
+        },{
+            "text": "Lectures in summer term 2024",
+            "lectures": [
+                {
+                    "link": "http://cvmr.info/lectures/CGSoSe2024/",
+                    "displaytext": "Computergrafik",
+                    "additionalInformation": "(Bachelorstudiengang Medieninformatik)"
+                },
+                {
+                    "link": "http://cvmr.info/lectures/CVSoSe2024/",
+                    "displaytext": "Computer Vision",
+                    "additionalInformation": "(Masterstudiengang Informatik)"
+                },
+                {
+                    "link": "http://cvmr.info/lectures/3DCVSS24/",
+                    "displaytext": "3D Vision and Deep Learning ",
+                    "additionalInformation": "(Johannes Gutenberg-Universität Mainz)"
+                }
+            ]
+        }
+    ]
+}

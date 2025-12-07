@@ -1,0 +1,22 @@
+{
+    "text": "We are constantly offering topics for Bachelor and Master theses, Master projects, or student research projects with topics related to computer graphics, computer vision and human computer interaction. The only prerequisites are solid programming knowledge and enthusiasm for a specific topic. Do not hesitate to contact Prof. Schwanecke for setting up a project. Elaborations should be done with Latex. Thereby your are pleased to use the template we prepared.",
+    "links": [
+        {
+            "url":"https://www.mi.hs-rm.de/~schwan/resources/Data/ThesesAndProjects/latex-template-thesis.zip",
+            "text":"Latex Template"
+        }
+
+    ],
+    "headline2": "New Topics for Bachelor and Master Theses as well as Master Projects",
+    "text2":"Below you find a list of possible topics for Bachelor and Master theses. If you are interested in working on one of the topics, please contact us. However, you are not restricted to one of these topics. If you have an own idea for a project you are interested in, please do not hesitate to contact us in order to discuss your thoughts. ",
+    "topiclist":[
+    "Calibration Tool for Multiple Camera Systems",
+    "Mobile 3D-Display",
+    "Depth from Defocus",
+    "Active Wavefront Sampling",
+    "Klassifikation von Bewegungsdaten",
+    "SLAM-Algorithmen zur Mulitcoptersteuerung",
+    "Echtzeitrendering von Zähnen",
+    "Visualisierung von Fishpopulationsentwicklungen"
+    ]
+}

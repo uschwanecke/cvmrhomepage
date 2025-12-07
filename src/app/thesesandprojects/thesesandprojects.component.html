@@ -1,1 +1,14 @@
-<p>thesesandprojects works!</p>
+<div class="container"><h1>Student Projects and Theses</h1>
+
+<p>{{data?.text}}</p>
+
+<h6 *ngFor="let link of data?.links"><a *ngIf="link.active==undefined || link.active==true" [href]="link.url">{{link.text}}</a></h6>
+
+
+<h3>{{data?.headline2}}</h3>
+<p>{{data?.text2}}</p>
+
+<ul>
+    <li *ngFor="let point of data?.topiclist">{{point}}</li>
+</ul>
+</div>
