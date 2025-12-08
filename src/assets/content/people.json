@@ -31,6 +31,76 @@
                 "name": "Dr. Marc Lieser",
                 "image": "assets/images/people/marclieser-2.png",
                 "desc": "fpv.marclieser.de"
+            },
+            {
+                "name": "M.Sc. Fabian Stahl",
+                "image": "assets/images/people/fabiastahl-2.jpg",
+                "desc": ""
+            },
+                        {
+                "name": "Dr. Nicolas Wagner",
+                "image": "assets/images/people/person-3.png",
+                "desc": ""
+            },
+                        {
+                "name": "Dr. Alexander Sommer",
+                "image": "assets/images/people/alexsommer-3-2.png",
+                "desc": ""
+            },
+                        {
+                "name": "M.Sc. Phillip Macho",
+                "image": "assets/images/people/person-3.png",
+                "desc": ""
+            },
+                        {
+                "name": "B. Sc. Tim Schneider",
+                "image": "assets/images/people/pasted-graphic.jpg",
+                "desc": ""
+            },
+                        {
+                "name": "B.Sc. Robin Schmidt",
+                "image": "assets/images/people/person-3.png",
+                "desc": ""
+            },
+                        {
+                "name": "Dr. Henning Tjaden",
+                "image": "assets/images/people/henningtjaden-2.png",
+                "desc": ""
+            },
+                        {
+                "name": "M.Sc. Thomas Giezten",
+                "image": "assets/images/people/thomasgietzen-2.png",
+                "desc": ""
+            },
+                        {
+                "name": "M.Sc. Benjamin Weißer",
+                "image": "assets/images/people/benjaminweisser.png",
+                "desc": ""
+            },
+                        {
+                "name": "M.Sc. Annalena Gutheil",
+                "image": "assets/images/people/analenagutheil-3.png",
+                "desc": ""
+            },
+                        {
+                "name": "Dr. Nadia Haubner",
+                "image": "assets/images/people/nadiahaubner.png",
+                "desc": ""
+            },
+                        {
+                "name": "Dipl. Inf. (FH) Simon Lehmann",
+                "image": "assets/images/people/portrait-small-bw.png",
+                "desc": ""
+            },
+                        {
+                "name": "M.Sc. Kai Wolf",
+                "image": "assets/images/people/kaiwolf-small-2.jpg",
+                "desc": ""
+            },
+                        {
+                "name": "B.Sc. Lukas Chodorski ",
+                "image": "assets/images/people/lukas-2.png",
+                "desc": ""
             }
         ]
     }
