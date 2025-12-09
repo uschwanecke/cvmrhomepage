@@ -15,6 +15,7 @@ import { HttpClientModule } from '@angular/common/http';
 import { PersonComponent } from './people/person/person.component';
 import { PublicationComponent } from './publications/publication/publication.component';
 import { NgbCarousel, NgbCarouselModule, NgbModule } from '@ng-bootstrap/ng-bootstrap';
+import { HashLocationStrategy, LocationStrategy } from '@angular/common';
 @NgModule({
   declarations: [
     AppComponent,
@@ -35,7 +36,7 @@ import { NgbCarousel, NgbCarouselModule, NgbModule } from '@ng-bootstrap/ng-boot
      NgbModule,
      NgbCarouselModule
   ],
-  providers: [],
+  providers: [{provide: LocationStrategy, useClass: HashLocationStrategy}],
   bootstrap: [AppComponent]
 })
 export class AppModule { }
