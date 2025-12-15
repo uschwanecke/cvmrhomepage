@@ -4,10 +4,15 @@ export interface Link {
     active: boolean | undefined;
 }
 
-export interface ThesesAndProjects {
+export interface Topic{
     text: string;
+    active: boolean | undefined;
+}
+
+export interface ThesesAndProjects {
+    content: string;
     links: Link[];
-    headline2: string;
-    text2: string;
-    topiclist: string[];
+    contentHeadline2: string;
+    content2: string;
+    topiclist: Topic[];
 }

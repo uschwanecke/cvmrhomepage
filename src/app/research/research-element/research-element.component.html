@@ -9,7 +9,7 @@
     <div class="col-md-8">
       <div class="card-body">
         <h5 class="card-title">{{research?.title}}</h5>
-        <p class="card-text">{{research?.desc}}</p>
+        <p class="card-text" [innerHTML]="research?.desc"></p>
       </div>
     </div>
   </div>

@@ -101,6 +101,56 @@
                 "name": "B.Sc. Lukas Chodorski ",
                 "image": "assets/images/people/lukas-2.png",
                 "desc": ""
+            },
+             {
+                "name": "M. Sc. Florian Feuerstein ",
+                "image": "assets/images/people/florianfeuerstein.png",
+                "desc": ""
+            },
+             {
+                "name": "Dr. Sebastian Otte ",
+                "image": "assets/images/people/sebastianotte.png",
+                "desc": ""
+            },
+             {
+                "name": "Dipl-Math Daniel Groß ",
+                "image": "assets/images/people/daniel.png",
+                "desc": ""
+            },
+             {
+                "name": "Dr. Christoph John ",
+                "image": "assets/images/people/christophjohn.png",
+                "desc": ""
+            },
+             {
+                "name": "B. Sc. David Awayes ",
+                "image": "assets/images/people/davidawayes.png",
+                "desc": ""
+            },
+             {
+                "name": "M. Sc. Fabio Campos ",
+                "image": "assets/images/people/fabiocampos.png",
+                "desc": ""
+            },
+             {
+                "name": "Dipl.-Ing. (DH) .B.Sc. Ulrich Heil ",
+                "image": "assets/images/people/uliheil.png",
+                "desc": ""
+            },
+             {
+                "name": "M.Eng. Manuela Wenzel ",
+                "image": "assets/images/people/manuelawenzel.png",
+                "desc": ""
+            },
+             {
+                "name": "Dr. Johannes Luderschmidt",
+                "image": "assets/images/people/johannesluderschmidt-2.png",
+                "desc": ""
+            },
+             {
+                "name": "M. Sc. Tassilo Kugelstadt ",
+                "image": "assets/images/people/tassilokugelstadt.png",
+                "desc": ""
             }
         ]
     }

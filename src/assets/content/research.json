@@ -1,4 +1,10 @@
-{"research":[
+{
+    "content": [
+        "Our research focuses on the analysis and synthesis of digital images as well as advanced human computer interaction. Thereby we combine concepts from computer graphics, computer vision, computer science, applied mathematics and physics.",
+"Below you find a short overview of some of our different preceding and ongoing research projects"
+    ],
+    "list":
+[   
     {
         "title": "DeepLearningCargo",
         "desc": "The DeepLearningCargo project will primarily contribute to basic research in the area of AI generalization and explainability. However, in the orientation of its scientific research design for hypothesis testing, it will take up aspects from the areas of Aviation Next Generation, logistics, mobility and digital transformation. In this respect, the project addresses central topics of the HOLM research agenda. ",
@@ -15,7 +21,7 @@
         "images": [
             "assets/images/research/zim_logo-3-3.jpg"
         ],
-        "active": false
+        "active": true
     },
         {
         "title": "VIDEOTRACK 2D/3D",
@@ -23,7 +29,114 @@
         "images": [
             "assets/images/research/bisp_logo.png"
         ]
+    },
+        {
+        "title": "TRACKSHOT: Tracking of Shotgun and Target for Olympic Trap and Skeet",
+        "desc": "The research project TRACKSHOT (Tracking of Shotgun and Target for Olympic Trap and Skeet) is a joint research project with the German Shooting Federation (<a href='http://www.dsb.de/' target='blank'>DSB</a>).The aim of the project is to detect and track the position and orientation (pose) of the shotgun together with the position of the target simultaneously in a common coordinate system. The resulting performance-diagnostic hardware component and a suitable software application should enable both the athlete and the trainer to have an accurate and timely evaluation and interpretation of the data. Beside the development of a robust and accurate marker-based tracking system, one of the main focuses of the project is to set the basis for a completely marker-less system, that enables tracking without the need of hardware to be attached to the sports equipment in order to have a completely non-reactive system. Particularly suitable for this initial tests for the development of such a marker less optical tracking system is the shotgun due to its size and thus good visibility. Thus, a feasibility study for marker-less tracking is conducted within the project. If this proves to be feasible, it would be dealt with in follow-up applications for other sports equipment such as air gun or bow. bisp_logo ",
+        "images": [
+            "assets/images/research/trackshot-2.png",
+            "assets/images/research/bisp_logo-2.png"
+        ]
+    },
+        {
+        "title": "OPTIGAMA: Optical Short Game Motion Analyzer",
+        "desc": " The research project OPTIGAMA (Optical Short Game Motion Analyzer) is embedded in the research project SHOGAMA (Short Game Motion Analyzer) which is a joint project together with the Science & Motion Sports GmbH in Flörsheim and the institute of computer science of the Johannes Gutenberg University Mainz. The aim of SHOGAMA is to develop a highly accurate realtime system for three-dimensional tracking of the golf cub during short game. The complete system will be composed of an inertial measurement unit (IMU) attached to the golfs cub handle as well as a camera observing the head of the golf cub. The aim of OPTIGAMA is to determine the golf cub position and orientation (pose) while it is inside the cameras field of view based on the camera footage. The determined pose can be additionally refined and verified based on the data obtained by the IMU. On the other hand pose information can be achieved only based on IMU data if the golf cub is outside the cameras field of view. This combination allows to monitor the complete golf stroke mechanics. ",
+        "images": [
+            "assets/images/research/optigama-2.png",
+            "assets/images/research/bmwi_logo-3.png"
+        ]
+    },
+        {
+        "title": "Fish Biodiversity Estimation by Low-Cost Non-Destructive Video Based Sampling (FIBEVID)",
+        "desc": " The DAAD funded project <a href='http://www.fibevid.info/' target='blank'>FIBEVID</a> is a joint project of the DCSM department of RheinMain University of Applied Sciences (HSRM, Wiesbaden/Germany) and the National University of Science and Technology (NUST, Islamabad/Pakistan), while the Pakistan Museum of Natural History (PMNH) will accompany the project as an application partner. In FIBEVID underwater computer vision technology will be employed for an automated surveying of fish species. The project includes the construction and deployment of suitable underwater camera rigs, as well as the development of innovative software for a semiautomatic localization, tracking, measuring and classification of underwater species. The result of FIBEVID will form the basis for a non-invasive, low-cost surveying of Pakistan’s fish population, and benefit the preservation of endangered species as well as a more sustainable economic exploitation of Pakistan’s resources. ",
+        "images": [
+            "assets/images/research/fibevid.png",
+            "assets/images/research/logo2.png"
+        ]
+    },
+        {
+        "title": "Kephalos: Strahlungsarme 3D-Rekonstruktion des Gesichtsschädels auf Basis multimodaler Eingabedaten",
+        "desc": "Orthodontic motivated radiographs substantial contributes to radiation exposure of children and adolescents. Especially since the introduction of dental digital volume tomography (DVT), the use of 3D radiographs is increasingly propagated. Because DVT devices typically generate 3D information from several hundred 2D radiographs, the effective dose of a DVT recording is at least an order of magnitude greater than that of a single digital lateral cephalogram. However, for many diagnostics a complete 3D model often is not needed, but only the outer (facial) surface of the facial skeleton. The aim of Kephalos is to develope a new technique for calculating the exact facial surface of the facial bones based on a) a single lateral cephalogram, b) an optical face scan and c) a statistical model of the correlation between the facial surface and the facial bones.",
+        "images": [
+            "assets/images/research/kephalos-2.png",
+            "assets/images/research/bmbf_logo-3-3.jpg"
+        ]
+    },
+        {
+        "title": "MTM Auto Code Generator: Entwicklung eines Systems zur Analyse von Bewegungsabläufen in der Montage zur automatisierten Generierung von MTM Codes zur schnellen und eindeutigen Klassifizierung von Arbeitsvorgängen",
+        "desc": "Methods-Time Measurement (MTM) is often applied in industrial settings whenever any manual operation or task is performed during the manufacturing process. It is used to analyze and optimize motion sequences of workers and thereby determine standard times in which a worker can complete the individual tasks. Thus one of the basic requirements of MTM is the ability to capture, and classify the movement of workers while executing these tasks. This research project aims to automate this by applying and fusing motion tracking methods based on various sensors. We develop a system to accurately capture the motion of a worker, employed tools and components and simultaneously segment and classify these motion sequences. For tracking components and tools we investigate a novel optical passive tracking algorithm since it is impractical to augment these parts with any sensor or marker attachment in this setting.  ",
+        "images": [
+            "assets/images/research/mtm-3-2.jpg",
+            "assets/images/research/bmwi_logo-3-3-2.png"
+        ]
+    },
+        {
+        "title": "KOLIBRI: KOLlektive Intelligenz unBemannteR MultIcopter",
+        "desc": "The viability of small and cheap autonomous aircrafts opens up a whole new field of civilian applications. In this research project we are developing a low budget system to do research in the field the swarm behavior of small autonomous aircrafts. Our system is based on an affordable high speed optical tracking system with high accuracy and a software component for remote controlling arial vehicles, both systems are developed in our lab. Based on very small multicopters with a maximum weight of 50g, we investigate autonomous aircraft swarms and develop new algorithms to enable collaborative strategies for solving problems such as generating maps of an environment or identifying best paths to victims. The latest results can be found <a href='http://cvmr.mi.hs-rm.de/icarus' target='blank'>here</a>.",
+        "images": [
+            "assets/images/research/kolibri_infografik-2.jpg"
+        ]
+    },
+        {
+        "title": "Optishot: Entwicklung eines Mess- und Auswertesystems zum Einsatz im Schießtraining zur Optimierung der Bewegungsabläufe und damit der Zielgenauigkeit und Identifizierung sowie Behandlung des Schießkrampfes",
+        "desc": "Professionals who carry firearms on man (e.g. police officers), must be specially trained to deal with them. The training largely consists of repetition exercises in which the movement, including firing be rehearsed 'process-safe'. Existing measurement methods are very limited for a detailed analysis of the training shots and practical instructions to improve the sequence of movements. In addition, there is a disease (that is also known by golfer and called 'yips'), which may lead to occupational disability, if it is not diagnosed early. In this research project we develop a new measuring method which precisely determine and evaluate the 3D movement and automatically creates instructions to improve the motion sequence.",
+        "images": [
+            "assets/images/research/optishot-2.png",
+            "assets/images/research/zim_logo-3-3-3.jpg"
+        ]
+    },
+        {
+        "title": "VEDUS: Virtuelle editierbare 3D-Stadtmodelle",
+        "desc": "Many tasks in the field of urban planning, such as noise protection measures, the incidence of light, or radio coverage require 3D data. Complete 3D city models thus gradually replace conventional maps. But the creation and maintenance of 3D city models is very complex and costly. The goal of this research project is to develop a system that allow editing of 3D city models by various users using al kind of different devices. Users should be placed in a position to visualize and collaboratively edit the models on all kind of devices from the traditional desktop PC to Tablet PCs and smartphones. <br/><br/>Dieses Projekt (HA-Projekt-Nr. 315/12-05) wurde im Rahmen von Hessen ModellProjekte aus Mitteln der LOEWE – Landes-Offensive zur Entwicklung Wissenschaftlich-ökonomischer Exzellenz, Förderlinie 3: KMU-Verbundprojektvorhaben gefördert.",
+        "images": [
+            "assets/images/research/vedus.png",
+            "assets/images/research/loewe_logo-3-2.jpg"
+        ]
+    },
+        {
+        "title": "AUTOMEX: Automatische Extraktion von Mittelflächenbeschreibungen aus 3D-CAD-Volumenmodellen",
+        "desc": "Many simulations like crash-tests, pedestrian vehicle interactions, vibration or noise analysis depend on simplified finite element models, which have to be generated from existing 3D-CAD models. The AUTOMEX project develops automated methods to compute medial axis representations for arbitrarily complex thin-walled components such as synthetic materials and cast metal parts. For further information please visit our project website. <br/> <br/>Dieses Projekt (HA-Projekt-Nr. 300/11-45) wurde im Rahmen von Hessen ModellProjekte aus Mitteln der LOEWE – Landes-Offensive zur Entwicklung Wissenschaftlich-ökonomischer Exzellenz, Förderlinie 3: KMU-Verbundprojektvorhaben gefördert. ",
+        "images": [
+            "assets/images/research/automex.png",
+            "assets/images/research/loewe_logo-3-2.jpg"
+        ]
+    },
+    
+        {
+        "title": "APOLLON: Ein universelles Rendering-Werkzeug für das Erzeugen von 'gebackenen' Lichteffekten in 3D Spielen, Simulations- und VR-Anwendungen",
+        "desc": "Virtual reality applications often requires to bake complex light situations for specific objects in a virtual scene into textures, so called lightmaps. These lightmaps can be used in any 3D realtime applications like games or visualization apps. With precalculated lightmaps it is possible to improve the performance and the visual quality in realtime applications. In this project we develop a software tool that supports at least baking of Global Illumination, Ambient Occlusion and Direct Lighting / Shadow Baking.<br/><br/> Dieses Projekt (HA-Projekt-Nr. 229/10-05) wurde im Rahmen von Hessen ModellProjekte aus Mitteln der LOEWE – Landes-Offensive zur Entwicklung Wissenschaftlich-ökonomischer Exzellenz, Förderlinie 3: KMU-Verbundprojektvorhaben gefördert.",
+        "images": [
+            "assets/images/research/apollon.png",
+            "assets/images/research/loewe_logo-3-2.jpg"
+        ]
+    }
+    ,
+        {
+        "title": "LowDoseDVT: Qualitativ hochwertige 3D Rekonstruktion mit reduzierter Eingangsinformation bei der digitalen Volumentomographie zur Minimierung der Strahlenbelastung",
+        "desc": "The aim of this research project is to develop algorithms that allow to calculate high quality three-dimensional reconstruction from cone beam computed tomography data needing fewer projection images than before. In this way the radiation dose for patients can be reduced significantly. In this project we follow three strategies in order to reduce the number of projection images needed. First, we carefully calibrate the geometric parameters of a cone beam computed tomography machine. Second, we reduce reconstruction artifacts by suitable processing the input images. And third, we develop new regulized algebraic reconstruction algorithms. For further information please visit our  <a href='http://www.lowdosedvt.de/' target='blank'>project website</a>.  ",
+        "images": [
+            "assets/images/research/logo.jpg",
+            "assets/images/research/bmbf_logo-3-3-3.jpg"
+        ]
+    }
+    ,
+        {
+        "title": "Berührungslose 3D Vermessung volumetrischer Veränderungen im Rahmen zahnärztlicher Chirurgie sowie der Kieferorthopädie und Kieferchirurgie",
+        "desc": "In this research project we develop an inexpensive system for non-contact measurement of facial turgors in a dentistry setting. The system is dedicated to the volumetric measurement and documentation of therapy and healing processes after dental surgeries. It is based on a standard structured light scanner, which is utilized to acquire 3D measurements of a patients face. A sequence of scans, for example acquired over a postsurgical period, serves as the input source for volumetric reconstructions and measurements of facial turgor volumes. These measurements document the healing process. ",
+        "images": [
+            "assets/images/research/schwellungsmessung.png"
+        ]
+    }
+    ,
+        {
+        "title": "",
+        "desc": " ",
+        "images": [
+            "assets/images/research/"
+        ],
+        "active": false
     }
 ]
+
 }
 

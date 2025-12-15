@@ -169,69 +169,1468 @@
             "year": 2024,
             "publications": [
                 {
-                    "authors": "",
-                    "title": "",
-                    "further": "",
-                    "image": "assets/images/publications/",
+                    "authors": "Villmow, J.; Ulges, A.; Schwanecke, U.; ",
+                    "title": "Evaluating Contexturalized Code Search in Practical User Studies",
+                    "further": " INFORMATIK 2024, pp 1393-1403 ",
+                    "image": "assets/images/publications/contextualizedcodesearch2024-2.png",
                     "linklist": [
                         {
-                            "link": "",
+                            "link": "https://www.mi.hs-rm.de/~schwan/resources/Paper/ContextualizedCodeSearch2024.pdf",
                             "displaytext": "pdf"
                         }
                     ],
-                    "active": false
+                    "active": true
                 },
                 {
-                    "authors": "",
-                    "title": "",
-                    "further": "",
-                    "image": "assets/images/publications/",
+                    "authors": "Wagner, N.; Schwanecke, U.; Botsch, M.; ",
+                    "title": "AnaConDaR: Anatomically-Constrained Data-Adaptive Facial Retargeting",
+                    "further": "Computers & Graphics, Volume 122",
+                    "image": "assets/images/publications/anacondar-2.png",
                     "linklist": [
                         {
-                            "link": "",
+                            "link": "https://www.mi.hs-rm.de/~schwan/resources/Paper/2024-anacondar.pdf",
                             "displaytext": "pdf"
                         }
                     ],
-                    "active": false
+                    "active": true
                 },
                 {
-                    "authors": "",
-                    "title": "",
-                    "further": "",
-                    "image": "assets/images/publications/",
+                    "authors": "Lieser, M.; Schwanecke, U.;",
+                    "title": "Vocalics in Human-Drone Interaction",
+                    "further": " 33rd IEEE International Conference on Robot and Human Interactive Communication, IEEE RO-MAN, 2024, pp. 2226-2232",
+                    "image": "assets/images/publications/dronevocalics.png",
                     "linklist": [
                         {
-                            "link": "",
+                            "link": "https://www.mi.hs-rm.de/~schwan/resources/Paper/2024_roman_vocalics.pdf",
                             "displaytext": "pdf"
+                        },
+                        {
+                            "link": "https://ieeexplore.ieee.org/document/10731428",
+                            "displaytext": "doi"
                         }
                     ],
-                    "active": false
+                    "active": true
                 },
                 {
-                    "authors": "",
-                    "title": "",
-                    "further": "",
-                    "image": "assets/images/publications/",
+                    "authors": " Benyamin, M.; Schwanecke, U.; Christmann, M.; Hedkte, R.",
+                    "title": "SDR Image Reconstruction for the Improvement of Nighttime Traffic Classification Using a New HDR Traffic Dataset",
+                    "further": "London Imaging Meeting",
+                    "image": "assets/images/publications/sdrimagereco2024-2.png",
                     "linklist": [
                         {
-                            "link": "",
+                            "link": "https://www.mi.hs-rm.de/~schwan/resources/Paper/lim2024.pdf",
                             "displaytext": "pdf"
                         }
                     ],
-                    "active": false
+                    "active": true
                 },
                 {
-                    "authors": "",
-                    "title": "",
-                    "further": "",
-                    "image": "assets/images/publications/",
+                    "authors": "Wagner, N.; Schwanecke, U.; Botsch, M.; ",
+                    "title": "SparseSoftDECA: Efficient High-Resolution Physics-Based Facial Animation from Sparse Landmarks",
+                    "further": "Computers &amp; Graphics, Volume 119, April 2024",
                     "linklist": [
                         {
-                            "link": "",
+                            "link": "https://www.mi.hs-rm.de/~schwan/resources/Paper/sparsesoftdeca_2024.pdf",
+                            "displaytext": "pdf"
+                        },
+                        {
+                            "link": "https://doi.org/10.1016/j.cag.2024.103903",
+                            "displaytext": "doi"
+                        }
+                    ],
+                    "image": "assets/images/publications/softdeca-3.png"
+                },
+                {
+                    "authors": "Wenninger, S.; Kemper, F.; Schwanecke, U.; Botsch, M.; ",
+                    "title": "TailorMe: Self-Supervised Learning of an Anatomically Constrained Volumetric Human Shape Model",
+                    "further": "Computer Graphics Forum 43(2), (Proc. Eurographics)",
+                    "linklist": [
+                        {
+                            "link": "https://www.mi.hs-rm.de/~schwan/resources/Paper/eg24-tailorme.pdf",
+                            "displaytext": "pdf"
+                        },
+                        {
+                            "link": "https://www.mi.hs-rm.de/~schwan/resources/Videos/eg24-tailorme.mp4",
+                            "displaytext": "Video"
+                        }
+                    ],
+                    "image": "assets/images/publications/eg24-tailorme-2.png"
+                }
+            ]
+        },
+        {
+            "year": 2023,
+            "publications": [
+                {
+                    "authors": "Wagner, N.; Schwanecke, U.; Botsch, M.; ",
+                    "title": "SoftDECA: Computationally Efficient Physics-Based Facial Animations",
+                    "further": "ACRM Motion, Interaction and Games, 2023, Honorable Mention ",
+                    "linklist": [
+                        {
+                            "link": "https://www.mi.hs-rm.de/~schwan/resources/Paper/mig23.pdf",
+                            "displaytext": "pdf"
+                        },
+                        {
+                            "link": "https://www.mi.hs-rm.de/~schwan/resources/Paper/mig23-suppmat.pdf",
+                            "displaytext": "Supplemental Material"
+                        },
+                        {
+                            "link": "https://www.mi.hs-rm.de/~schwan/resources/Videos/mig23.mp4",
+                            "displaytext": "Video"
+                        }
+                    ],
+                    "image": "assets/images/publications/mig23-2.png"
+                },
+                {
+                    "authors": "Birklein, L.; Schömer, E.; Schwanecke, U.; Brylka, R.; Schulze, R.",
+                    "title": "Neural Deformable Cone Beam CT",
+                    "further": "Eurographics Workshop on Visual Computing for Biology and Medicine, VCBM 2023, Best Paper",
+                    "linklist": [
+                        {
+                            "link": "https://www.mi.hs-rm.de/~schwan/resources/Paper/VCBM_2023.pdf",
                             "displaytext": "pdf"
                         }
                     ],
-                    "active": false
+                    "image": "assets/images/publications/neuraldefcbct-3.png"
+                },
+                {
+                    "authors": "Schramm, R.; Sasalovici, M.; Hildebrand, A.; Schwanecke, U.; ",
+                    "title": "Assessing Augmented Reality Selection Techniques for Passengers in Moving Vehicles: A Real-World User Study",
+                    "further": "Automotive UI 2023, pp 22-31",
+                    "image": "assets/images/publications/autoui_2023-3.png"
+                },
+                {
+                    "authors": "Sommer, A.; Schwanecke, U.; Schömer, E.; ",
+                    "title": "Real-time Light Estimation and Neural Soft Shadows for AR Indoor Scenarios",
+                    "further": "WSCG 2023, pp 71-79",
+                    "image": "assets/images/publications/neuralsoftshadows-3.png"
+                },
+                {
+                    "authors": "Bytyqi, Q.; Wolpert, N.; Schömer, E.; Schwanecke, U.; ",
+                    "title": "Prototype Softmax Cross Entropy: A new Perspective on Softmax Cross Entropy",
+                    "further": "Image Analysis: 22nd Scandinavian Conference, SCIA 2023, pp. 16-31 ,Best Paper",
+                    "linklist": [
+                        {
+                            "link": "https://www.mi.hs-rm.de/~schwan/resources/Paper/SCIA_2023.pdf",
+                            "displaytext": "pdf"
+                        }
+                    ],
+                    "image": "assets/images/publications/contproto-3.png"
+                },
+                {
+                    "authors": "Birklein, L.; Niebler, S.; Schömer, E.; Brylka, R.; Schwanecke, U.; Schulze, R.; ",
+                    "title": " Motion Correction for Separate Mandibular and Cranial Movements in Cone Beam CTReconstructions",
+                    "further": "Medical Physics, 2023; pp. 1-15",
+                    "linklist": [
+                        {
+                            "link": "http://doi.org/10.1002/mp.16347",
+                            "displaytext": "doi"
+                        },
+                        {
+                            "link": "https://aapm.onlinelibrary.wiley.com/doi/epdf/10.1002/mp.16347",
+                            "displaytext": "pdf"
+                        }
+                    ],
+                    "image": "assets/images/publications/motioncorrection2023-2.png"
+                }
+            ]
+        },
+        {
+            "year": 2022,
+            "publications": [
+                {
+                    "authors": "Villmow, J.; Campos, V.; Ulges, A.; Schwanecke, U.; ",
+                    "title": "Addressing Leakage in Self-Supervised Contextualized Code Retrieval",
+                    "further": "COLING'22, 2022",
+                    "linklist": [
+                        {
+                            "link": "https://arxiv.org/abs/2204.11594",
+                            "displaytext": "pdf"
+                        }
+                    ],
+                    "image": "assets/images/publications/adleak.png"
+                },
+                {
+                    "authors": "Sommer, A.; Schwanecke, U.; Schömer, E.; ",
+                    "title": "Interactive High-Resolution Simulation of Granular Material",
+                    "further": "WSCG 2022, pp. 9-15",
+                    "linklist": [
+                        {
+                            "link": "http://wscg.zcu.cz/WSCG2022/journal/A05-full.pdf",
+                            "displaytext": "pdf"
+                        }
+                    ],
+                    "image": "assets/images/publications/higresgranular-3.png"
+                },
+                {
+                    "authors": "Wagner, N.; Schwanecke, U.; ",
+                    "title": "NeuralQAAD: An Efficient Differentiable Framework for Compressing High Resolution Consistent Point Cloud Datasets",
+                    "further": "VISIGRAPP (4: VISAPP) 2022, pp. 811-822",
+                    "linklist": [
+                        {
+                            "link": "https://www.mi.hs-rm.de/~schwan/resources/Paper/NeuralQAAD.pdf",
+                            "displaytext": "pdf"
+                        }
+                    ],
+                    "image": "assets/images/publications/neuralquaad-3.png"
+                }
+            ]
+        },
+        {
+            "year": 2021,
+            "publications": [
+                {
+                    "authors": "Lieser, M.; Schwanecke, U.; Berdux, J.; ",
+                    "title": "Evaluating Distances in Tactile Human-Drone Interaction",
+                    "further": "30th IEEE International Conference on Robot &amp; Human Interactive Communication, RO-MAN, 2021",
+                    "linklist": [
+                        {
+                            "link": "https://www.mi.hs-rm.de/~schwan/resources/Paper/DisInTHRI2021.pdf",
+                            "displaytext": "pdf"
+                        }
+                    ],
+                    "image": "assets/images/publications/roman2021-2.png"
+                },
+                {
+                    "authors": "Brylka, R.; Schwanecke, U.; Bierwirth, B.; ",
+                    "title": "AI-based recognition of dangerous goods labels and metric package features",
+                    "further": "HICL, 2021",
+                    "image": "assets/images/publications/hicl2021-2.png"
+                },
+                {
+                    "authors": "Abid, N.; Shahazad, M.; Schwanecke, U.: Ulges, A.;Kova, G.; Shafait, F.; ",
+                    "title": "UCL: Unsupervised Curriculum Learning for Water Body Classification from Remote Sensing Imagery",
+                    "further": "International Journal of Applied Earth Observation and Geoinformation, 2021",
+                    "linklist": [
+                        {
+                            "link": "https://authors.elsevier.com/sd/article/S0303-2434(21)00275-0",
+                            "displaytext": "pdf"
+                        }
+                    ],
+                    "image": "assets/images/publications/ucl2021-2.png"
+                },
+                {
+                    "authors": "Villmow, J.; Ulges, A.; Schwanecke, U.:",
+                    "title": "A Structural Transformer with Relative Positions in Trees for Code-to-Sequence Tasks",
+                    "further": "International Joint Conference on Neural Networks, IJCNN 2021",
+                    "image": "assets/images/publications/ijcnn2021-2.png"
+                },
+                {
+                    "authors": "Sommer, A.; Schwanecke, U.:",
+                    "title": "LEAVEN - Leightweight Surface and Volume Mesh Sampling Application for Particle—based Simulation",
+                    "further": "29. International Conference in Central Europe on ComputerGraphics, Visualization and Computer Vision, WSCG 2021, pp. 155-160",
+                    "linklist": [
+                        {
+                            "link": "https://www.mi.hs-rm.de/~schwan/resources/Paper/LEAVEN.pdf",
+                            "displaytext": "pdf"
+                        }
+                    ],
+                    "image": "assets/images/publications/wscg2021-3.png"
+                },
+                {
+                    "authors": "Lieser, M.; Schwanecke, U.: Berdux, J.:",
+                    "title": "Tactile Human-Quadrotor Interaction: MetroDrone",
+                    "further": "TEI 2021, the 15th ACM International Conference on Tangible, Embedded and Embodied Interaction ",
+                    "linklist": [
+                        {
+                            "link": "https://www.mi.hs-rm.de/~schwan/resources/Paper/tei21-30.pdf",
+                            "displaytext": "pdf"
+                        }
+                    ],
+                    "image": "assets/images/publications/tei2021-3.png"
+                }
+            ]
+        },
+        {
+            "year": 2020,
+            "publications": [
+                {
+                    "authors": "Bierwirth, B.; Brylka, R.; Schwanecke, U.:",
+                    "title": "Business Process Transformation in Air Cargo Logistics",
+                    "further": "in Global Challenges of Digital Transformation of Markets, 2020"
+                },
+                {
+                    "authors": "Lieser, M.; Schwanecke, U.; Berdux, J.:",
+                    "title": "EAVE: Emotional Aerial Vehicle Evaluator",
+                    "further": "Workshop on Smart Systems for Better Living Environments (SENSYBLE20)",
+                    "image": "assets/images/publications/eave-3.png"
+                },
+                {
+                    "authors": "Brylka, R.; Schwanecke, U.; Bierwirth, B.:",
+                    "title": "Camera based Barcode Localization and Decoding in Real-World Applications",
+                    "further": "2020 International Conference on Omni-layer Intelligent Systems (COINS), Barcelona, Spain, 2020, pp 1-8",
+                    "image": "assets/images/publications/coins2020-2.png"
+                },
+                {
+                    "authors": "Sommer, A.; Schwanecke, U.; Schömer, E.:",
+                    "title": "Chebyshev's Method on Projective Fluids",
+                    "further": "28. International Conference on Computer Graphics, Visualization and Computer Vision 2020, 132-136, Journal of WSCG, Vol. 28, No.1-2, 2020 ",
+                    "linklist": [
+                        {
+                            "link": "http://wscg.zcu.cz/wscg2020/journal/G41.pdf",
+                            "displaytext": "pdf"
+                        }
+                    ],
+                    "image": "assets/images/publications/chebychev2020-2.png"
+                },
+                {
+                    "authors": "Wörl, A-C.; Schömer, E.; Schwanecke, U.:",
+                    "title": "Variable-Radius Offset Surface Approximation on the GPU",
+                    "further": "28. International Conference on Computer Graphics, Visualization and Computer Vision 2020, 99-108, Journal of WSCG, Vol. 28, No.1-2, 2020 ",
+                    "linklist": [
+                        {
+                            "link": "http://wscg.zcu.cz/wscg2020/Full/G07.pdf",
+                            "displaytext": "pdf"
+                        }
+                    ],
+                    "image": "assets/images/publications/variableoffsetsurfaces2020-2.png"
+                }
+            ]
+        },
+        {
+            "year": 2019,
+            "publications": [
+                {
+                    "authors": "Stahl, F.; Meyer, M.; Schwanecke, U.:",
+                    "title": "IST - Style Transfer with Instance Segmentation",
+                    "further": "11th Int'l Symposium on Image and Signal Processing, 277-281, ISPA, 2019 ",
+                    "linklist": [
+                        {
+                            "link": "https://www.mi.hs-rm.de/~schwan/resources/Paper/IST2019.pdf",
+                            "displaytext": "pdf"
+                        }
+                    ],
+                    "image": "assets/images/publications/ist_ispa2019-3.png"
+                },
+                {
+                    "authors": "Niebler, S.; Schömer, E.; Tjaden, H.; Schwanecke, U.; Schulze, R.:",
+                    "title": "Projection-based improvement of 3D reconstructions from motion-impaired dental Cone-beam CT data",
+                    "further": " Medical Physics, Oct; 46(10): 4470-4480, 2019",
+                    "linklist": [
+                        {
+                            "link": "https://www.ncbi.nlm.nih.gov/pubmed/31339580",
+                            "displaytext": "Epub"
+                        }
+                    ],
+                    "image": "assets/images/publications/cbctmotioncorrect-2.png"
+                },
+                {
+                    "authors": "Bierwirth, B.; Schwanecke, U.; Gietzen, T.; Brylka, B.; Andrés Lopez, D.:",
+                    "title": "SmartAirCargoTrailer - Autonomous Short Distance Transports in Air Cargo",
+                    "further": "Hamburg International Conference of Logistics, 150-185, 2019",
+                    "linklist": [
+                        {
+                            "link": "http://hdl.handle.net/10419/209372",
+                            "displaytext": "link2pub"
+                        }
+                    ],
+                    "image": "assets/images/publications/hicl2019.png"
+                },
+                {
+                    "authors": "Salam, A., Siddiqui S. A., Shafait, F. , H.; Mian, A.; Shortis, M. R.; Khurshid, K.;Ulges, A.; Schwanecke,U.:",
+                    "title": "Automatic Fish Detection in Underwater Videos by a Deep Neural Network Based Hybrid Motion Learning System",
+                    "further": "ICES Journal of Marine Science, 2, 2019, 1-13.",
+                    "linklist": [
+                        {
+                            "link": "https://doi.org/10.1093/icesjms/fsz025",
+                            "displaytext": "doi"
+                        }
+                    ],
+                    "image": "assets/images/publications/fishdetect.png"
+                },
+                {
+                    "authors": "Shah, H.; Villmow, J.; Ulges, A.; Schwanecke, U.; Shafait, F.:",
+                    "title": "An Open-World Extension to Knowledge Graph Completion Models",
+                    "further": "AAAI 2019, 3044-3051.",
+                    "linklist": [
+                        {
+                            "link": "https://www.semanticscholar.org/paper/An-Open-World-Extension-to-Knowledge-Graph-Models-Shah-Villmow/4e237df92dc6fd9a44db74e5d8e0ff2b11cd1c6a",
+                            "displaytext": "SemanticScolar"
+                        }
+                    ],
+                    "image": "assets/images/publications/knowgraphcom.png"
+                },
+                {
+                    "authors": "Gietzen, T.; Brylka, R.; Aschenbach, J.; zum Hebel, K.; Schömer, E.; Botsch, M.; Schwanecke, U, Schulze, R.:",
+                    "title": "A method for automatic forensic facial reconstruction based on dense statistics of soft tissue thickness; ",
+                    "further": " ",
+                    "linklist": [
+                        {
+                            "link": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0210257",
+                            "displaytext": "pdf"
+                        }
+                    ],
+                    "image": "assets/images/publications/fstt-2.png"
+                }
+            ]
+        },
+        {
+            "year": 2018,
+            "publications": [
+                {
+                    "authors": "Macho, P.; Kurz, N.; Ulges, A.; Brylka, R.; Gietzen, T.; Schwanecke, U.:",
+                    "title": "Segmenting Teeth from Volumetric CT Data with a Hierarchical CNN-based Approach",
+                    "further": "Computer Graphics &amp; Visual Computing, 2018, 109-113",
+                    "linklist": [
+                        {
+                            "link": "https://www.mi.hs-rm.de/~schwan/resources/Paper/cgvc2018.pdf",
+                            "displaytext": "pdf"
+                        }
+                    ],
+                    "image": "assets/images/publications/teethseg-2.png"
+                },
+                {
+                    "authors": "Aschenbach, J.; Brylka, R.; Gietzen, T.; zum Hebel, K.; Schömer, E.; Schulze, R.; Botsch, M.; Schwanecke, U.:",
+                    "title": "A Multilinear Model for Bidirectional Craniofacial Reconstruction",
+                    "further": "Eurographics Workshop on Visual Computing for Biology and Medicine, Eurographics Association, 2018, 67-76",
+                    "linklist": [
+                        {
+                            "link": "https://www.mi.hs-rm.de/~schwan/resources/Paper/multilinearHeadModell2018.pdf",
+                            "displaytext": "pdf"
+                        },
+                        {
+                            "link": "https://pub.uni-bielefeld.de/record/2930619",
+                            "displaytext": "data"
+                        }
+                    ],
+                    "image": "assets/images/publications/bidircraniofaci-2.png"
+                },
+                {
+                    "authors": "Tjaden, H.; Schwanecke, U.; Schömer, E.; Cremers, D.:",
+                    "title": "A Region-based Gauss-Newton Approach to Real-Time Monocular Multiple Object Tracking",
+                    "further": " IEEE Trans. Pattern Anal. Mach. Intell. 41(8), 1797-1812, 2019",
+                    "linklist": [
+                        {
+                            "link": "https://www.mi.hs-rm.de/~schwan/resources/Paper/ObjekctTrackingTPAMI2018.pdf",
+                            "displaytext": "preprint"
+                        },
+                        {
+                            "link": "https://arxiv.org/abs/1807.02087",
+                            "displaytext": "ArXiv"
+                        },
+                        {
+                            "link": "http://cvmr.mi.hs-rm.de/research/RBOT/",
+                            "displaytext": "sourcecode and dataset"
+                        },
+                        {
+                            "link": "https://youtu.be/uaP1vA4gNRc",
+                            "displaytext": "Video"
+                        }
+                    ],
+                    "image": "assets/images/publications/rbot-2.png"
+                },
+                {
+                    "authors": "Schulze, R.; Gietzen, T.; Brylka, R.; zum Hebel, K.; Schoemer, E.; Schwanecke, U.:",
+                    "title": "Statistical bone model from CT-data: basis for modelling defect implants",
+                    "further": "Poster at the 3rd International Conference on 3D Printing in Medicine, Mainz; 2018",
+                    "linklist": [
+                        {
+                            "link": "https://www.mi.hs-rm.de/~schwan/resources/Paper/3D_Printing_Defect_Implants.pdf",
+                            "displaytext": "pdf"
+                        }
+                    ],
+                    "image": "assets/images/publications/3dprinting-2.png"
+                },
+                {
+                    "authors": "Poth, C.; Foerster, R.; Behler, C.; Schwanecke, U.; Schneider, W.; Botsch, M.:",
+                    "title": "Presenting visual stimuli in ultra-high temporal resolution with gaming monitors",
+                    "further": "In: Schütz AC, Schubö A, Endres D, Lachnit H, eds. Abstracts of the 60th Conference of Experimental Psychologists Lengerich: Pabst Science Publishers; 2018.",
+                    "image": "assets/images/publications/visualstimuli-2.png"
+                },
+                {
+                    "authors": "Poth, C.; Foerster, R.; Behler, C.; Schwanecke, U.; Schneider, W.; Botsch, M.:",
+                    "title": "Ultra-high temporal resolution of visual presentation using gaming monitors and G-Sync",
+                    "further": "Behavior Research Methods 50(1), 2018, 26-38 ",
+                    "linklist": [
+                        {
+                            "link": "https://www.mi.hs-rm.de/~schwan/resources/Paper/brm18.pdf",
+                            "displaytext": "pdf"
+                        },
+                        {
+                            "link": "http://rdcu.be/ESV3",
+                            "displaytext": "link to Springer"
+                        }
+                    ],
+                    "image": "assets/images/publications/visualpresentation-2.png"
+                }
+            ]
+        },
+        {
+            "year": 2017,
+            "publications": [
+                {
+                    "authors": "Tjaden, H.; Schwanecke, U.; Schömer, E.:",
+                    "title": "Real-Time Monocular Pose Estimation of 3D Objects using Temporally Consistent Local Color Histograms",
+                    "further": ";ICCV, 2017, 124-132 ",
+                    "linklist": [
+                        {
+                            "link": "https://ieeexplore.ieee.org/document/8237285/",
+                            "displaytext": "Paper"
+                        },
+                        {
+                            "link": "https://www.mi.hs-rm.de/~schwan/resources/Paper/TCLCH_ICCV2017.pdf",
+                            "displaytext": "pdf"
+                        },
+                        {
+                            "link": "https://youtu.be/gVX_gLIjQpI",
+                            "displaytext": "Video"
+                        }
+                    ],
+                    "image": "assets/images/publications/tclch_iccv2017-2.png"
+                },
+                {
+                    "authors": "Lieser, M.; Tjaden, H.; Brylka, R.; Löffler, R.; Schwanecke, U.:",
+                    "title": "A Low-Cost Mobile Infrastructure for Compact Aerial Robots Under Supervision",
+                    "further": "ECMR 2017 - The European Conference on Mobile Robotics, Sept 2017 ",
+                    "linklist": [
+                        {
+                            "link": "https://www.mi.hs-rm.de/~schwan/resources/Paper/ICARUS_ECMR2017.pdf",
+                            "displaytext": "pdf"
+                        }
+                    ],
+                    "image": "assets/images/publications/icarus-3.png"
+                },
+                {
+                    "authors": "Gietzen, T.; Brylka, R.; Schwanecke, U.; Schömer, E.:",
+                    "title": "A Dense Statistical Model of Facial Soft Tissue Thickness",
+                    "further": "SENSYBLE 2017 Workshop @ INFORMATIK 2017, 891-898",
+                    "image": "assets/images/publications/densefstt-3.png"
+                },
+                {
+                    "authors": "Andrés Lopez, D.; Diensberg, B.; Schömer, E.; Schwanecke, U.:",
+                    "title": "VCIT - Visual Corrected Inertial Tracking",
+                    "further": "SENSYBLE 2017 Workshop @ INFORMATIK 2017, 899-906 ",
+                    "linklist": [
+                        {
+                            "link": "https://www.mi.hs-rm.de/~schwan/resources/Paper/VCIT2017.pdf",
+                            "displaytext": "pdf"
+                        }
+                    ],
+                    "image": "assets/images/publications/vcit.png"
+                },
+                {
+                    "authors": "Junkert, F.; Eberts, M.; Ulges, A.; Schwanecke, U.:",
+                    "title": "Cross-modal Image-Graphics Retrieval by Neural Transfer Learning",
+                    "further": "Proceedings of the 2017 ACM International Conference on Multimodal Retrieval, ICMR '17, 330-337",
+                    "linklist": [
+                        {
+                            "link": "https://www.mi.hs-rm.de/~schwan/resources/Paper/crossmod2017.pdf",
+                            "displaytext": "pdf"
+                        }
+                    ],
+                    "image": "assets/images/publications/cmtranslearn-3.png"
+                },
+                {
+                    "authors": "Schwanecke, U.:",
+                    "title": "Stand der Technik bei Mensch-Maschine-Interfaces",
+                    "further": "talk at LEARNTEC 2017",
+                    "linklist": [
+                        {
+                            "link": "https://www.mi.hs-rm.de/~schwan/resources/Paper/STAR-MMI.pdf",
+                            "displaytext": "pdf"
+                        }
+                    ],
+                    "image": "assets/images/publications/starmmi_small-2.png"
+                }
+            ]
+        },
+        {
+            "year": 2016,
+            "publications": [
+                {
+                    "authors": "Tjaden, H.; Schwanecke, U., Schömer, E.:",
+                    "title": "Real-Time Monocular Segmentation and Pose Tracking of Multiple Objects",
+                    "further": "ECCV (4), 2016, 423-438 ",
+                    "linklist": [
+                        {
+                            "link": "http://link.springer.com/chapter/10.1007/978-3-319-46493-0_26",
+                            "displaytext": "Paper"
+                        },
+                        {
+                            "link": "https://www.mi.hs-rm.de/~schwan/resources/Paper/realtime_monocular_tracking_eccv16.pdf",
+                            "displaytext": "pdf"
+                        },
+                        {
+                            "link": "https://youtu.be/-nFkNPqf1LU",
+                            "displaytext": "Video 1"
+                        },
+                        {
+                            "link": "https://www.youtube.com/watch?v=YNhiFPlAYyg",
+                            "displaytext": "Video 2"
+                        }
+                    ],
+                    "image": "assets/images/publications/monomodeltracking-2.png"
+                },
+                {
+                    "authors": "Schwanecke, U.; Gutheil, A.:",
+                    "title": "MIMIC - Multi-user Interaction with MultICopters",
+                    "further": "CeBIT, 2016",
+                    "linklist": [
+                        {
+                            "link": "https://www.mi.hs-rm.de/~schwan/resources/Paper/CeBIT-MIMIC.pdf",
+                            "displayText": "pdf (short)"
+                        },
+                        {
+                            "link": "https://www.mi.hs-rm.de/~schwan/resources/Paper/CeBIT-FLYPER-flyer-german.pdf",
+                            "displayText": "pdf (long german)"
+                        },
+                        {
+                            "link": "https://www.mi.hs-rm.de/~schwan/resources/Paper/CeBIT_FLYPER_flyer_english.pdf",
+                            "displayText": "pdf (long english)"
+                        },
+                        {
+                            "link": "http://www.1730live.de/studenten-aus-wiesbaden-auf-der-cebit/",
+                            "displayText": "Bericht of Sat.1"
+                        }
+                    ],
+                    "image": "assets/images/publications/mimic-2.png"
+                },
+                {
+                    "authors": "Schwanecke, U.; Andrés López, D; Weißer, B.:",
+                    "title": "FLYPER - the FLYing PERiscope",
+                    "further": "CeBIT, 2016",
+                    "linklist": [
+                        {
+                            "link": "https://www.mi.hs-rm.de/~schwan/resources/Paper/CeBIT-FLYPER-flyer-german.pdf",
+                            "displayText": "pdf (long german)"
+                        },
+                        {
+                            "link": "https://www.mi.hs-rm.de/~schwan/resources/Paper/CeBIT_FLYPER_flyer_english.pdf",
+                            "displayText": "pdf (long english)"
+                        },
+                        {
+                            "link": "hhttp://www.1730live.de/studenten-aus-wiesbaden-auf-der-cebit/f",
+                            "displayText": "Bericht of Sat.1"
+                        }
+                    ],
+                    "image": "assets/images/publications/flyper.png"
+                }
+            ]
+        },
+        {
+            "year": 2015,
+            "publications": [
+                {
+                    "authors": "Eberts, M.; Ulges, A.; Schwanecke, U.:",
+                    "title": "AMIGO – Automatic Indexing of Lecture Footage",
+                    "further": "6th International Workshop on Camera Based Document Analysis and Recognition (CBDAR 2015), 2015, 1206-1210",
+                    "linklist": [
+                        {
+                            "link": "https://www.mi.hs-rm.de/~schwan/resources/Paper/AMIGO2015.pdf",
+                            "displaytext": "pdf"
+                        }
+                    ],
+                    "image": "assets/images/publications/amigo-2.png"
+                },
+                {
+                    "authors": "Schwanecke, U.; Rathemacher, C.:",
+                    "title": "VEDUS - Virtuelle editierbare 3D-Stadtmodelle",
+                    "further": "Hessen-IT News, 2015 ",
+                    "linklist": [
+                        {
+                            "link": "https://www.mi.hs-rm.de/~schwan/resources/Paper/Vedus.pdf",
+                            "displaytext": "pdf"
+                        },
+                        {
+                            "link": "http://www.hessen-it.de/mm/mm001/Hessen-IT_NEWS_0115.pdf",
+                            "displaytext": "Hessen-IT News 1/2015"
+                        }
+                    ],
+                    "image": "assets/images/publications/vedus-3.png"
+                },
+                {
+                    "authors": "Schwanecke, U.; Lieser, M.; Tjaden, H.; Brylka, R.:",
+                    "title": "Icarus - Infrastructure for compact aerial robots under supervision",
+                    "further": "CeBIT, 2015",
+                    "linklist": [
+                        {
+                            "link": "https://www.mi.hs-rm.de/~schwan/resources/Paper/CeBIT-2015-Icarus.pdf",
+                            "displaytext": "pdf"
+                        }
+                    ],
+                    "image": "assets/images/publications/icarus-3-2.png"
+                },
+                {
+                    "authors": "Tjaden, H.; Schwanecke, U.; Stein, F. A.; Schömer; E:",
+                    "title": "High-Speed and Robust Monocular Tracking",
+                    "further": "Proceedings of the 10th International Conference on Computer Vision Theory and Applications",
+                    "linklist": [
+                        {
+                            "link": "http://visapp.visigrapp.org/",
+                            "displaytext": "VISIGRAPP"
+                        },
+                        {
+                            "link": "https://www.mi.hs-rm.de/~schwan/resources/Paper/hsrm_tracking.pdf",
+                            "displaytext": "pdf"
+                        }
+                    ],
+                    "image": "assets/images/publications/hsrmtracking-3.png"
+                },
+                {
+                    "authors": "Schulze, R.; Michel, M. G.; Schwanecke, U.:",
+                    "title": "Automated detection of patient movement during a CBCT scan based on the projection data",
+                    "further": "Oral Surgery, Oral Medicine, Oral Pathology, Oral Radiology, 2015, 468-472 Best Paper",
+                    "linklist": [
+                        {
+                            "link": "http://dx.doi.org/10.1016/j.oooo.2014.12.008",
+                            "displaytext": "doi"
+                        }
+                    ],
+                    "image": "assets/images/publications/cbctmovement-2.png"
+                }
+            ]
+        },
+        {
+            "year": 2014,
+            "publications": [
+                {
+                    "authors": "Otte, S.; Schwanecke, U.; Zell, A.:",
+                    "title": "ANTSAC: A Generic RANSAC Variant using Principles of Ant Colony Algorithms",
+                    "further": "22nd International Conference on Pattern Recognition (ICPR), 2014, 3558-3563 ",
+                    "linklist": [
+                        {
+                            "link": "https://www.mi.hs-rm.de/~schwan/resources/Paper/AnstsacICPR2014.pdf",
+                            "displaytext": "pdf"
+                        }
+                    ],
+                    "image": "assets/images/publications/antsac-2.png"
+                },
+                {
+                    "authors": "Backes, A.; Glockner, C.; Schwanecke, U.:",
+                    "title": "Automatische Erzeugung von FEM-Mittelflächen aus CAD-Daten",
+                    "further": "ATZ, 2-2014. ",
+                    "linklist": [
+                        {
+                            "link": "https://www.mi.hs-rm.de/~schwan/resources/Paper/Automex_engl.pdf",
+                            "displaytext": "pdf"
+                        },
+                        {
+                            "link": "https://www.mi.hs-rm.de/~schwan/resources/Paper/Automex_ger.pdf",
+                            "displaytext": "pdf (german)"
+                        }
+                    ],
+                    "image": "assets/images/publications/fem-mf-3.png"
+                }
+            ]
+        },
+        {
+            "year": 2013,
+            "publications": [
+                {
+                    "authors": "Lehmann, S.; Dörner, R.; Schwanecke, U.; Haubner, N.; Luderschmidt, J.:",
+                    "title": "UTIL: Complex, Post-WIMP Human Computer Interaction with Complex Event Processing Methods",
+                    "further": "In 10. Workshop 'Virtuelle und Erweiterte Realität' der GI-Fachgruppe VR/AR (Aachen, 2013), M. E. Latoschik and O. Staadt, Eds., Shaker Verlag, 109-120.",
+                    "linklist": [
+                        {
+                            "link": "https://www.mi.hs-rm.de/~schwan/resources/Paper/UTIL2013.pdf",
+                            "displaytext": "pdf"
+                        }
+                    ],
+                    "image": "assets/images/publications/util2013-2.png"
+                },
+                {
+                    "authors": "Höfler, S.; Müller, A.; Luderschmidt, J.; Haubner, N.; Dörner, R.; Schwanecke, U.:",
+                    "title": "Combining Tangible and Above the Surface Interaction",
+                    "further": "In 10. Workshop 'Virtuelle und Erweiterte Realität' der GI-Fachgruppe VR/AR (Aachen, 2013), M. E. Latoschik and O. Staadt, Eds., Shaker Verlag, 27-36.",
+                    "linklist": [
+                        {
+                            "link": "https://www.mi.hs-rm.de/~schwan/resources/Paper/CombTang2013.pdf",
+                            "displaytext": "pdf"
+                        }
+                    ],
+                    "image": "assets/images/publications/combtang2013.png"
+                },
+                {
+                    "authors": "Haubner, N.; Schwanecke, U.; Dörner, R.; Lehmann, S.; Luderschmidt, J.:",
+                    "title": "Detecting interaction above digital tabletops using a single depth camera",
+                    "further": "Machine Vision and Applications, 2013, 1-13.",
+                    "linklist": [
+                        {
+                            "link": "http://dx.doi.org/10.1007/s00138-013-0538-5",
+                            "displayText": "doi"
+                        },
+                        {
+                            "link": "https://www.mi.hs-rm.de/~schwan/resources/Paper/DetectInteract2013.pdf",
+                            "displayText": "pdf"
+                        }
+                    ],
+                    "image": "assets/images/publications/detectinteract2013.png"
+                },
+                {
+                    "authors": "Glockner, C.; Wenzel, M.; Schwanecke, U.; Heil, U.; Campos, F.",
+                    "title": "Vom Kühlergrill zum Fußgängerschutz - Vereinfachung komplexer Bauteile",
+                    "further": "Hannover Messe 2013.",
+                    "linklist": [
+                        {
+                            "link": "https://www.mi.hs-rm.de/~schwan/resources/Paper/automexHannoverMesse2013.pdf",
+                            "displaytext": "pdf"
+                        }
+                    ],
+                    "image": "assets/images/publications/automex.png"
+                },
+                {
+                    "authors": "Heil, U.; Fränkel, S.; Wunder, K.; Groß, D.; Schulze, R.; Schwanecke, U.; Düber, C.; Schömer, E.; Weinheimer,O.:",
+                    "title": "TV-Regularization in Digital Breast Tomosynthesis: Regularization Parameters &amp; Small Structures Segmentation",
+                    "further": "Fully 3D, 2013, 485-488.",
+                    "linklist": [
+                        {
+                            "link": "https://www.mi.hs-rm.de/~schwan/resources/Paper/TVReg2013.pdf",
+                            "displaytext": "pdf"
+                        },
+                        {
+                            "link": "https://www.mi.hs-rm.de/~schwan/resources/Paper/TVReg2013_poster.pdf",
+                            "displaytext": "Poster"
+                        }
+                    ],
+                    "image": "assets/images/publications/tvreg2013-2.png"
+                },
+                {
+                    "authors": "Fränkel, S.; Wunder, K.; Heil, U.; Groß, D.; Schulze, R.; Schwanecke, U.; Düber, C.; Schömer, E.; Weinheimer, O.:",
+                    "title": "Total variation regularization in digital breast tomosynthesis",
+                    "further": "In 'Bildverarbeitung für die Medizin', 2013, 356-361.",
+                    "linklist": [
+                        {
+                            "link": "http://dx.doi.org/10.1007/978-3-642-36480-8_62",
+                            "displaytext": "doi"
+                        }
+                    ],
+                    "image": "assets/images/publications/breasttomo2013.png"
+                }
+            ]
+        },
+        {
+            "year": 2012,
+            "publications": [
+                {
+                    "authors": "Huppmann, D.; Luderschmidt, J.; Haubner, N.; Lehmann, S.; Dörner, R.; Schwanecke, U.:",
+                    "title": "Exploring and Evaluating the Combined Multi-Touch and In-the-Air Tabletop Interaction Space",
+                    "further": "In 9. Workshop 'Virtuelle und Erweiterte Realität' der GI-Fachgruppe VR/AR (Aachen, 2012), C. Geiger, J. Herder, and T. Vierjahn, Eds., Shaker Verlag, 37-48.",
+                    "linklist": [
+                        {
+                            "link": "https://www.mi.hs-rm.de/~schwan/resources/Paper/EvaluateInTheAir2012.pdf",
+                            "displaytext": "pdf"
+                        }
+                    ],
+                    "image": "assets/images/publications/evaluateintheair2012.png"
+                },
+                {
+                    "authors": "Groß;, D.; Heil, U.; Schulze, R.; Schömer, E.; Schwanecke, U.:",
+                    "title": "Auto Calibration of a Cone-Beam-CT",
+                    "further": "Medical Physics, 39(10), 2012, 5959-5970. ",
+                    "linklist": [
+                        {
+                            "link": "http://dx.doi.org/10.1118/1.4739247",
+                            "displaytext": "doi"
+                        }
+                    ],
+                    "image": "assets/images/publications/dvtcalibration2012.png"
+                },
+                {
+                    "authors": "Drainischnikow, E.; Schömer, E.; Schulze, R.; Schwanecke, U.; Brüllmann, DD.:",
+                    "title": "Towards Fully Automated Dental Based Forensic Identification",
+                    "further": "Poster at XIIIth European Congress Of Dentomaxillofacial Radiology,13th-16th June 2012, Leipzig.",
+                    "linklist": [
+                        {
+                            "link": "https://www.mi.hs-rm.de/~schwan/resources/Paper/forensic2012.pdf",
+                            "displaytext": "pdf"
+                        }
+                    ],
+                    "image": "assets/images/publications/forensic2012.jpg"
+                },
+                {
+                    "authors": "Brüllmann, DD.; Juerchott, L. M.; John, C.; Templer, C.; Schwanecke, U.; Schulze, R. K.:",
+                    "title": "A contact-free volumetric measurement of facial volume after third molar osteotomy: Proof of concept",
+                    "further": "Oral Surgery, Oral Medicine, Oral Pathology, Oral Radiology, August, 2012.",
+                    "linklist": [
+                        {
+                            "link": "http://www.ncbi.nlm.nih.gov/pubmed/22939329",
+                            "displaytext": "pubmed"
+                        }
+                    ],
+                    "image": "assets/images/publications/cfvmmo2012.jpg"
+                },
+                {
+                    "authors": "Brüllmann, DD.; Tjaden, H.; Schwanecke, U.; Barth, P.:",
+                    "title": "An optimized video system for Augmented Reality in Endodontics: A feasibility study",
+                    "further": "Clinical Oral Investigation (31 March 2012), 1-8.",
+                    "linklist": [
+                        {
+                            "link": "http://www.ncbi.nlm.nih.gov/pubmed/22460401",
+                            "displaytext": "pubmed"
+                        }
+                    ],
+                    "image": "assets/images/publications/endoar2012.jpg"
+                },
+                {
+                    "authors": "Lehmann, S.; Schäfer, J.; Dörner, R.; Schwanecke, U.:",
+                    "title": "Towards Integration of User Interaction and Context Event Processing in Intelligent Living Environments",
+                    "further": "ASPRIT Workshop at the GI-/VDE-ARCS2012 Conference on Architectures of Computing Systems, 2012, 111-122.",
+                    "linklist": [
+                        {
+                            "link": "https://www.mi.hs-rm.de/~schwan/resources/Paper/cep2012.pdf",
+                            "displaytext": "pdf"
+                        }
+                    ],
+                    "image": "assets/images/publications/cep2012.jpg"
+                },
+                {
+                    "authors": "Haubner, N.; Schwanecke, U.; Dörner, R.; Lehmann, S.; Luderschmidt, J.:",
+                    "title": "Towards a top-view detection of body parts in an interactive tabletop environment",
+                    "further": "ASPRIT Workshop at the GI-/VDE-ARCS2012 Conference on Architectures of Computing Systems, 2012, 135-146.",
+                    "linklist": [
+                        {
+                            "link": "https://www.mi.hs-rm.de/~schwan/resources/Paper/topviewbody2012.pdf",
+                            "displaytext": "pdf"
+                        }
+                    ],
+                    "image": "assets/images/publications/topviewbody2012.jpg"
+                },
+                {
+                    "authors": "Schmitt, S.; Luderschmidt, J.; Haubner, N.; Lehmann, S.; Dörner, R.; Schwanecke, U.:",
+                    "title": "Goal-Snapping: An Empirical Evaluation of Object Snapping in Tangible and Multi-Touch Interfaces",
+                    "further": "ASPRIT Workshop at the GI-/VDE-ARCS2012 Conference on Architectures of Computing Systems, 2012, 87-98.",
+                    "linklist": [
+                        {
+                            "link": "https://www.mi.hs-rm.de/~schwan/resources/Paper/goalsnapping2012.pdf",
+                            "displaytext": "pdf"
+                        }
+                    ],
+                    "image": "assets/images/publications/goalsnapping2012.jpg"
+                },
+                {
+                    "authors": "Brusius, F.; Schwanecke, U.; Barth, P.:",
+                    "title": "Blind Image Deconvolution of Linear Motion Blur",
+                    "further": "in: G. Csurka et al. (Eds.): VISIGRAPP 2011, CCIS 274, Springer, Heidelberg (2012), 105-119.",
+                    "linklist": [
+                        {
+                            "link": "https://www.mi.hs-rm.de/~schwan/resources/Paper/blindMobdeblur2012.pdf",
+                            "displaytext": "pdf"
+                        }
+                    ],
+                    "image": "assets/images/publications/blindmobdeblur2012.jpg"
+                }
+            ]
+        },
+        {
+            "year": 2011,
+            "publications": [
+                {
+                    "authors": "Otte, S.; Schwanecke, U.; Barth, P.:",
+                    "title": "Mobile 3D Vision - 3D Scene Reconstruction with a Trifocal View on a Mobile Device",
+                    "further": "Kongressband zum 6. Kongress Multimediatechnik, Wismar, 2011.",
+                    "linklist": [
+                        {
+                            "link": "https://www.mi.hs-rm.de/~schwan/resources/Paper/mob3DVision2011.pdf",
+                            "displaytext": "pdf"
+                        }
+                    ],
+                    "image": "assets/images/publications/mob3dvision2011.jpg"
+                },
+                {
+                    "authors": "Schmidt, A.; Schwanecke, U.; Volmering, F.; Kamradt, M.:",
+                    "title": "A $1.5 Gesture Recognizer as Input Device for a Multi-Plattform Virtual Game Controller",
+                    "further": "Kongressband zum 6. Kongress Multimediatechnik, Wismar, 2011.",
+                    "linklist": [
+                        {
+                            "link": "https://www.mi.hs-rm.de/~schwan/resources/Paper/gesture2011.pdf",
+                            "displaytext": "pdf"
+                        }
+                    ],
+                    "image": "assets/images/publications/gesture2011.jpg"
+                },
+                {
+                    "authors": "Heil, U.; Groß;, D.; Schulze, R.; Schwanecke, U.; Schömer, E.:",
+                    "title": "Metal Artefact Reduction in X-Ray Computed Tomography: Inpainting Versus Missing Value",
+                    "further": "in: Nuclear Science Symposium and Medical Imaging Conference (NSS/MIC), 2011 IEEE, 2675-2677.",
+                    "image": "assets/images/publications/artred2011.jpg"
+                },
+                {
+                    "authors": "Brusius, F.; Schwanecke, U.; Barth, P.:",
+                    "title": "Efficient Motion Deblurring for Information Recognition on Mobile Devices",
+                    "further": "IMAGAPP 2011, International Conference on Imaging Theory and Applications, 7-18.",
+                    "linklist": [
+                        {
+                            "link": "https://www.mi.hs-rm.de/~schwan/resources/Paper/mobdb2011.pdf",
+                            "displaytext": "pdf"
+                        }
+                    ],
+                    "image": "assets/images/publications/mobdb2011.jpg"
+                },
+                {
+                    "authors": "Haubner, N.; Schwanecke, U.; Dörner, R.; Lehmann, S.; Luderschmidt, J.:",
+                    "title": "Recognition of Dynamic Hand Gestures with Time-of-Flight Cameras",
+                    "further": "In: R. Dörner, D. Krömker (Hrsg.) Sensysble Workshop 2010, ITG/GI Workshop on Self-Integrating Systems for Better Living Environments, Shaker Verlag, 2011, 33-39.",
+                    "linklist": [
+                        {
+                            "link": "https://www.mi.hs-rm.de/~schwan/resources/Paper/dyngesturereco2011.pdf",
+                            "displaytext": "pdf"
+                        }
+                    ],
+                    "image": "assets/images/publications/dyngesturereco2011.jpg"
+                },
+                {
+                    "authors": "Lehmann, S.; Dörner, R.; Schwanecke, U.; Luderschmidt, J.; Haubner, N.:",
+                    "title": "An Architecture for Interaction Event Processing in Tabletop Systems",
+                    "further": "In: R. Dörner, D. Krömker (Hrsg.) Sensysble Workshop 2010, ITG/GI Workshop on Self-Integrating Systems for Better Living Environments, Shaker Verlag, 2011, 125-129.",
+                    "linklist": [
+                        {
+                            "link": "https://www.mi.hs-rm.de/~schwan/resources/Paper/interacteventarch2011.pdf",
+                            "displaytext": "pdf"
+                        }
+                    ],
+                    "image": "assets/images/publications/interacteventarch2011.jpg"
+                },
+                {
+                    "authors": "Luderschmidt, J.; Bauer, I.; Haubern, H.; Lehmann, S.; Dörner, R.; Schwanecke, U.:",
+                    "title": "TUIO AS3: A Multi-Touch and Tangible User Interface Rapid Prototyping Toolkit for Tabletop Interaction",
+                    "further": "In: R. Dörner, D. Krömker (Hrsg.) Sensysble Workshop 2010, ITG/GI Workshop on Self-Integrating Systems for Better Living Environments,Shaker Verlag, 2011, 85-92.",
+                    "linklist": [
+                        {
+                            "link": "https://www.mi.hs-rm.de/~schwan/resources/Paper/tuioAS32011.pdf",
+                            "displaytext": "pdf"
+                        }
+                    ],
+                    "image": "assets/images/publications/tuioas32011.jpg"
+                },
+                {
+                    "authors": "Schulze, R.; Heil, U.; Gross, D.; Brüllmann, D.; Dranischnikow, E.; Schömer, E.; Schwanecke, U.:",
+                    "title": "Artefacts in CBCT: A Review",
+                    "further": "Dentomaxillofac. Radiol. 2011 40, pp. 265-273.",
+                    "linklist": [
+                        {
+                            "link": "https://www.mi.hs-rm.de/~schwan/resources/Paper/CTArtefacts2011.pdf",
+                            "displaytext": "pdf"
+                        }
+                    ],
+                    "image": "assets/images/publications/ctartifacts.jpg.jpg"
+                },
+                {
+                    "authors": "John, C.; Schwanecke, U.; Brüllmann, D.:",
+                    "title": "Contact-free volumetric measurement and documentation of facial turgors during the healing period after dental surgery",
+                    "further": "Computer Science - Research and Development (26), Issue 1, Springer 2011, pp. 135-142.",
+                    "linklist": [
+                        {
+                            "link": "https://www.mi.hs-rm.de/~schwan/resources/Paper/turgorCSRD2010.pdf",
+                            "displaytext": "pdf"
+                        }
+                    ],
+                    "image": "assets/images/publications/turgorcsrd2010.jpg"
+                }
+            ]
+        },
+        {
+            "year": 2010,
+            "publications": [
+                {
+                    "authors": "Brüllmann, D.; Seelge, M.; Schömer, E.; Schulze, R.; Schwanecke, U .:",
+                    "title": "Alignment of cone beam computed tomography data using intra-oral fiducial markers",
+                    "further": "Computerized Medical Imaging and Graphics, Elsevier 2010.",
+                    "linklist": [
+                        {
+                            "link": "http://www.sciencedirect.com/science/article/B6T5K-4YXMNYB-2/2/5fe58a43e110f90cc1a8b8c7e8212227",
+                            "displaytext": "ScienceDirect"
+                        }
+                    ],
+                    "image": "assets/images/publications/aligncmig2010.jpg"
+                },
+                {
+                    "authors": "John, C.; Regenbrecht, H.; Schwanecke, U .:",
+                    "title": "Volumetric Hand Reconstruction for Non-verbal Communication in Shared Virtual Environments",
+                    "further": "Eurographics 2010, 3-7 May 2010, Norrköping, Sweden, 37-40.",
+                    "linklist": [
+                        {
+                            "link": "https://www.mi.hs-rm.de/~schwan/resources/Paper/handEG2010.pdf",
+                            "displaytext": "pdf"
+                        },
+                        {
+                            "link": "https://youtu.be/iSm17RjLS0o",
+                            "displaytext": "Video"
+                        }
+                    ],
+                    "image": "assets/images/publications/handeg2010.jpg"
+                },
+                {
+                    "authors": "John, C.; Schwanecke, U .",
+                    "title": "Ein System zur berührungslosen, volumetrischen Vermessung von Gesichtsschwellungen",
+                    "further": "Bildverarbeitung für die Medizin (BVM 2010), Springer 2010, 112-116.",
+                    "linklist": [
+                        {
+                            "link": "https://www.mi.hs-rm.de/~schwan/resources/Paper/faceBVM2010.pdf",
+                            "displaytext": "pdf"
+                        }
+                    ],
+                    "image": "assets/images/publications/facebvm2010.jpg"
+                },
+                {
+                    "authors": "Lehmann, S.; Schwanecke, U .; Dörner, R.",
+                    "title": "Interactive Visualization for Opportunistic Exploration of Large Document Collections",
+                    "further": "Information Systems 35 (2), 2010, 260-269.",
+                    "linklist": [
+                        {
+                            "link": "https://www.mi.hs-rm.de/~schwan/resources/Paper/WIVIinterVisISJ2010.pdf",
+                            "displaytext": "pdf"
+                        }
+                    ],
+                    "image": "assets/images/publications/wiviintervisisj2010.jpg"
+                }
+            ]
+        },
+        {
+            "year": 2009,
+            "publications": [
+                {
+                    "authors": "Dranischnikow, E.; Schömer, E.; Schwanecke, U .; Schulze, R.; Brüllmann, D.",
+                    "title": "A Parallel Approach for Alignment of Multimodal Grid-Based Data",
+                    "further": "Proceedings of the IADIS International Conference, Applied Computing 2009, 330-337.",
+                    "linklist": [
+                        {
+                            "link": "https://www.mi.hs-rm.de/~schwan/resources/Paper/alignmentIADIS2009.pdf",
+                            "displaytext": "pdf"
+                        }
+                    ],
+                    "image": "assets/images/publications/alignmentiadis2009.jpg"
+                },
+                {
+                    "authors": "Gross, D.; Heil, U.; Schulze, R.; Schömer, E.; Schwanecke, U.",
+                    "title": "GPU-based Volume Reconstruction from Very Few Arbitrarily Aligned X-Ray Images",
+                    "further": "SIAM J. Sci. Comput. Volume 31, Issue 6, 2009, 4204-4221.",
+                    "linklist": [
+                        {
+                            "link": "https://www.mi.hs-rm.de/~schwan/resources/Paper/gpurecoSIAM2009.pdf",
+                            "displaytext": "pdf"
+                        }
+                    ],
+                    "image": "assets/images/publications/gpurecosiam2009.png"
+                },
+                {
+                    "authors": "John, C.; Schwanecke, U.; Regenbrecht, H.; ",
+                    "title": "Real-time Volumetric Reconstruction and Tracking of Hands in a Desktop Environment",
+                    "further": "Proceedings of the 13th International Conference on Computer Analysis of Images and Patterns - CAIP 2009, Springer 2009, 1053-1060.",
+                    "linklist": [
+                        {
+                            "link": "https://www.mi.hs-rm.de/~schwan/resources/Paper/handrecoCAIP2009.pdf",
+                            "displaytext": "pdf"
+                        }
+                    ],
+                    "image": "assets/images/publications/handrecocaip2009.png"
+                },
+                {
+                    "authors": "Seeliger, I.; Schwanecke, U.; Barth, P.; ",
+                    "title": "An optical pen tracking system as alternative pointing device",
+                    "further": "Proceedings of the Human-Computer Interaction Conference - INTERACT 2009, Springer 2009, 386-399.",
+                    "linklist": [
+                        {
+                            "link": "https://www.mi.hs-rm.de/~schwan/resources/Paper/pentrackingINTERACT2009.pdf",
+                            "displaytext": "pdf"
+                        }
+                    ],
+                    "image": "assets/images/publications/pentrackinginteract2009.png"
+                },
+                {
+                    "authors": "John, C.; Schwanecke, U.; Regenbrecht, H.",
+                    "title": "MIT 3D - Mensch-Maschine Interface Technologie für virtuelle Umgebungen",
+                    "further": "CeBIT / Hannover Messe 2009.",
+                    "linklist": [
+                        {
+                            "link": "https://www.mi.hs-rm.de/~schwan/resources/Paper/mit3dCEBIT2009.pdf",
+                            "displaytext": "pdf"
+                        }
+                    ],
+                    "image": "assets/images/publications/mit3dcebit2009.jpg"
+                },
+                {
+                    "authors": "Lehmann, S.; Schwanecke, U.; Dörner, R",
+                    "title": "Wivi - Interaktive Visualisierung zur opportunistischen Suche in der Wikipedia",
+                    "further": "CeBIT / Hannover Messe 2009.",
+                    "linklist": [
+                        {
+                            "link": "https://www.mi.hs-rm.de/~schwan/resources/Paper/wiviCEBIT2009.pdf",
+                            "displaytext": "pdf"
+                        }
+                    ],
+                    "image": "assets/images/publications/wivicebit2009.jpg"
+                },
+                {
+                    "authors": "Schwanecke, U.; Schwertel, D.; Weitz, W.; Schulze, R.",
+                    "title": "THMILE - 3D Medical Imaging Learning Environment",
+                    "further": "CeBIT / Hannover Messe 2009.",
+                    "linklist": [
+                        {
+                            "link": "https://www.mi.hs-rm.de/~schwan/resources/Paper/thmileCEBIT2009.pdf",
+                            "displaytext": "pdf"
+                        }
+                    ],
+                    "image": "assets/images/publications/thmilecebit2009.jpg"
+                },
+                {
+                    "authors": "Schwanecke, U.; John, C.; Brüllmann, D",
+                    "title": "TurgorLab - Berührungslose Vermessung von postoperativen Schwellungen",
+                    "further": "CeBIT / Hannover Messe 2009.",
+                    "linklist": [
+                        {
+                            "link": "https://www.mi.hs-rm.de/~schwan/resources/Paper/turgorLabCEBIT2009.pdf",
+                            "displaytext": "pdf"
+                        }
+                    ],
+                    "image": "assets/images/publications/turgorlabcebit2009.jpg"
+                },
+                {
+                    "authors": "John, C.; Schwanecke, U.; Regenbrecht, H.",
+                    "title": "Real-time Volumetric Reconstruction and Tracking of Hands and Face as a User Interface for Virtual Environments",
+                    "further": "Proceedings of the IEEE Virtual Reality Conference 2009 (VR 2009), 14-18 March 2009, Lafayette, Louisiana, USA, 241-242.",
+                    "linklist": [
+                        {
+                            "link": "http://dx.doi.org/10.1007/978-3-642-03767-2_128",
+                            "displaytext": "doi"
+                        },
+                        {
+                            "link": "https://www.mi.hs-rm.de/~schwan/resources/Paper/IEEEVR2009.jpg",
+                            "displaytext": "Poster"
+                        }
+                    ],
+                    "image": "assets/images/publications/handandfacetrackingieeevr2009.jpg"
+                }
+            ]
+        },
+        {
+            "year": 2008,
+            "publications": [
+                {
+                    "authors": "Barth, P; Schwanecke, U.; Wild, F.",
+                    "title": " Interactive high definition 3D face rendering on common mobile devices",
+                    "further": "Mensch und Computer 2008: Viel Mehr Interaktion. München: Oldenburg Verlag, 2008, 197-206.",
+                    "linklist": [
+                        {
+                            "link": "https://www.mi.hs-rm.de/~schwan/resources/Paper/mobileFacerenderingMuC2008.pdf",
+                            "displaytext": "pdf"
+                        }
+                    ],
+                    "image": "assets/images/publications/mobilefacerenderingmuc2008.jpg"
+                },
+                {
+                    "authors": "Schwanecke, U.",
+                    "title": "Wie kann man in einen Menschen reinschauen, ohne ihn aufzumachen?",
+                    "further": "Kinder-Uni, Rüsselsheim, 2008.",
+                    "image": "assets/images/publications/kinderuni2008.jpg"
+                },
+                {
+                    "authors": "Schwanecke, U.",
+                    "title": "Benutzerinterfacesteuergerät für einen Computer",
+                    "further": "Patent DE102006036160A1, Erteilt am 26.08.2008",
+                    "image": "assets/images/publications/userinterfacepat2008.jpg"
+                },
+                {
+                    "authors": "Schulze, R.; Heil, U.; Weinheimer, O.; Groß, D.; Brüllmann, D.; Thomas, E.; Schwanecke, U.; Schömer, E.",
+                    "title": "Accurate registration of random radiographic projections based on three spherical references for the purpose of few-view 3D reconstruction",
+                    "further": "Med. Phys.Volume 35, Issue 2, 2008, 546-555.",
+                    "linklist": [
+                        {
+                            "link": "https://www.mi.hs-rm.de/~schwan/resources/Paper/registrationMedPhys2008.pdf",
+                            "displaytext": "pdf"
+                        }
+                    ],
+                    "image": "assets/images/publications/registrationmedphys2008.jpg"
+                }
+            ]
+        },
+        {
+            "year": 2007,
+            "publications": [
+                {
+                    "authors": "Schwanecke, U.; Brendebach, P.; Haubner, N.; Rathemacher, C.; Walkowski, F.; Wild, F.; Winter, K.",
+                    "title": "P4 - A Scalable Real-time Ping Pong Point Protocolar",
+                    "further": "Kongressband zum 2. Kongress Multimedia-Technik, Verlagsreihe Multimedia, vwh-Verlag, Münster, 2007, 59-74.",
+                    "linklist": [
+                        {
+                            "link": "https://www.mi.hs-rm.de/~schwan/resources/Paper/p4MT2007.pdf",
+                            "displaytext": "pdf"
+                        }
+                    ],
+                    "image": "assets/images/publications/p4mt2007.jpg"
+                },
+                {
+                    "authors": "Schwanecke, U.; Zeitz, J.; Dörner, R",
+                    "title": "Mixed Reality Based Interaction Techniques Using Smartphones in Bulletin Board Applications",
+                    "further": "Kongressband zum 2. Kongress Multimedia-Technik, Verlagsreihe Multimedia, vwh-Verlag, Münster, 2007, 1-14.",
+                    "linklist": [
+                        {
+                            "link": "https://www.mi.hs-rm.de/~schwan/resources/Paper/mrInteractionMT2007.pdf",
+                            "displaytext": "pdf"
+                        }
+                    ],
+                    "image": "assets/images/publications/mrinteractionmt2007.jpg"
+                }
+            ]
+        },
+        {
+            "year": 2006,
+            "publications": [
+                {
+                    "authors": "Schwanecke, U.; Sinn, C.",
+                    "title": "Visualization of workpieces during simulation of milling processes",
+                    "further": "United States Patent 20030083773, Publication Date: 05.01.2003, United Sates Patent 7149668, Publication Date: 12.12.2006.",
+                    "image": "assets/images/publications/patmilling.jpg"
+                },
+                {
+                    "authors": "Schwanecke, U.",
+                    "title": "Vom 2D-Röntgenbild zum 3D-Objekt",
+                    "further": "Festvortrag zur 34. Hessischen Landestagung des Vereins zur Förderung des mathematischen und naturwissenschaftlichen Unterrichts, 2006.",
+                    "image": "assets/images/publications/2d3droentgenhl2006.jpg"
+                },
+                {
+                    "authors": "Schwanecke, U.",
+                    "title": "Game Interfaces",
+                    "further": "Gamedays 2006.",
+                    "image": "assets/images/publications/gameinterfacesgamedays2006.jpg"
+                },
+                {
+                    "authors": "Schwanecke, U.",
+                    "title": "Computerspiele - Technologien, Anwendungen, Visionen",
+                    "further": "Rüsselsheimer Hochschulgespräche 2006.",
+                    "image": "assets/images/publications/computerspielerhg2006.jpg"
+                },
+                {
+                    "authors": "Schwanecke, U.; Schulze, R.; Brüllmann, D.; Schömer, E.; Weinheimer, O.; Heil, U.",
+                    "title": "Kostengünstiges 3D-Röntgen",
+                    "further": "CeBIT / Hannover Messe 2006.",
+                    "linklist": [
+                        {
+                            "link": "https://www.mi.hs-rm.de/~schwan/resources/Paper/3droentgenCEBIT2006.pdf",
+                            "displaytext": "pdf"
+                        }
+                    ],
+                    "image": "assets/images/publications/3droentgencebit2006.jpg"
+                }
+            ]
+        },
+        {
+            "year": 2005,
+            "publications": [
+                {
+                    "authors": "Kobbelt, L.; Schwanecke, U.; Sinn, C.",
+                    "title": "Method and system for approximately reproducing the surface of a workpiece",
+                    "further": "United States Patent 6901310, Publication Date: 31.05.2005.",
+                    "image": "assets/images/publications/patsurfrepro.jpg"
+                },
+                {
+                    "authors": "Richter, D.; Schwanecke, U.; John, C.; Schöner, D",
+                    "title": "Augmented Reality als natürliches User-Interface",
+                    "further": "Hannover Messe 2005.",
+                    "linklist": [
+                        {
+                            "link": "https://www.mi.hs-rm.de/~schwan/resources/Paper/arUIHANNOVER2005.pdf",
+                            "displaytext": "pdf"
+                        }
+                    ],
+                    "image": "assets/images/publications/aruihannover2005.jpg"
+                }
+            ]
+        },
+        {
+            "year": 2004,
+            "publications": [
+                {
+                    "authors": "Schwanecke, U.",
+                    "title": "Virtual Reality ein Oxymoron mit Zukunft..",
+                    "further": "CIM, Rüsselsheim, 2004.",
+                    "image": "assets/images/publications/vrcim2004.jpg"
+                }
+            ]
+        },
+        {
+            "year": 2002,
+            "publications": [
+                {
+                    "authors": "Jüttler, B.; Schwanecke, U.",
+                    "title": "Analysis and Design of Hermite Subdivision Schemes",
+                    "further": "The Visual Computer (2002) 18, 326-342.",
+                    "linklist": [
+                        {
+                            "link": "https://www.mi.hs-rm.de/~schwan/resources/Paper/hermiteSubdivVC2002.pdf",
+                            "displaytext": "pdf"
+                        }
+                    ],
+                    "image": "assets/images/publications/hermitesubdivvc2002.jpg"
+                }
+            ]
+        },
+        {
+            "year": 2001,
+            "publications": [
+                {
+                    "authors": "Kobbelt, L.; Botsch, M.; Schwanecke, U.; Seidel, H-P.",
+                    "title": "Feature Sensitive Surface Extraction from Volume Data",
+                    "further": "Computer Graphics (SIGGRAPH 01 Proceedings), 2001, 57-66.",
+                    "linklist": [
+                        {
+                            "link": "https://www.mi.hs-rm.de/~schwan/resources/Paper/surfExtractSIGGRAPH2001.pdf",
+                            "displaytext": "pdf"
+                        }
+                    ],
+                    "image": "assets/images/publications/surfextractsiggraph2001.jpg"
+                }
+            ]
+        },
+        {
+            "year": 2000,
+            "publications": [
+                {
+                    "authors": "Schwanecke, U.; Kobbelt, L.",
+                    "title": "Approximate envelope reconstruction for moving solids",
+                    "further": "in: T. Lyche and L. L. Schumaker, eds.: Mathematical Methods for Curves and Surfaces, Vanderbilt University Press, Oslo, 2000, 455-466.",
+                    "linklist": [
+                        {
+                            "link": "https://www.mi.hs-rm.de/~schwan/resources/Paper/aerfmsMMCS2001.pdf",
+                            "displaytext": "pdf"
+                        }
+                    ],
+                    "image": "assets/images/publications/aerfmsmmcs2001.jpg"
+                },
+                {
+                    "authors": "Schwanecke, U.; Jüttler, B.",
+                    "title": "A B-Spline Approach to Hermite Subdivision",
+                    "further": "in: A. Cohen et al, eds.: Curves and Surface Fitting, Vanderbilt University Press, Nashville TN, 2000,385-392.",
+                    "linklist": [
+                        {
+                            "link": "https://www.mi.hs-rm.de/~schwan/resources/Paper/absCUSF2000.pdf",
+                            "displaytext": "pdf"
+                        }
+                    ],
+                    "image": "assets/images/publications/abscusf2000.jpg"
+                },
+                {
+                    "authors": "Schwanecke, U.",
+                    "title": "Duale Approximationsmethoden und Subdivisionsalgorithmen für Linienelement",
+                    "further": "Shaker Aachen, 2000.",
+                    "image": "assets/images/publications/dissus.png"
+                }
+            ]
+        },
+        {
+            "year": 1998,
+            "publications": [
+                {
+                    "authors": "Hoschek, J.; Schwanecke, U.:",
+                    "title": "nterpolation and approximation with ruled surfaces",
+                    "further": "in R. Cripps: The Mathematics of surfaces VIII, 1998, 213 - 231.",
+                    "linklist": [
+                        {
+                            "link": "https://www.mi.hs-rm.de/~schwan/resources/Paper/iarsMOS1998.pdf",
+                            "displaytext": "pdf"
+                        }
+                    ],
+                    "image": "assets/images/publications/iarsmos1998.jpg"
+                }
+            ]
+        },
+        {
+            "year": 1996,
+            "publications": [
+                {
+                    "authors": "Schwanecke, U.",
+                    "title": "Untersuchung geometrischer Eigenschaften von dualen Bézier- und B-Spline-Kurven mit Anwendungen auf Interpolationsprobleme",
+                    "further": "Diplomarbeit, FB Mathematik, TU Darmstadt, 1996.",
+                    "image": "assets/images/publications/dipl1996.jpg"
                 }
             ]
         }

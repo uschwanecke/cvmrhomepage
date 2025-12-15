@@ -6,5 +6,6 @@ export interface Research {
 }
 
 export interface ResearchList {
-    research: Research[];
+    content: string[];
+    list: Research[];
 }

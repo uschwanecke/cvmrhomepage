@@ -1,6 +1,6 @@
 import { HttpClient } from '@angular/common/http';
 import { Component, inject, OnInit } from '@angular/core';
-import { Home } from './home.model';
+import { Home, Image } from './home.model';
 import { NgbCarouselModule } from '@ng-bootstrap/ng-bootstrap';
 import { NgIf } from '@angular/common';
 
@@ -12,7 +12,7 @@ import { NgIf } from '@angular/common';
 export class HomeComponent implements OnInit{
   http: HttpClient = inject(HttpClient)
   data: Home| undefined = undefined;
-  images: string[]|undefined;
+  images: Image[]|undefined;
 
   ngOnInit(): void {
     this.http.get('assets/content/home.json').subscribe(data => {

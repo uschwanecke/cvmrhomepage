@@ -4,8 +4,13 @@ export interface ExternalLinks {
     active: boolean|undefined;
 }
 
+export interface Image {
+    img: string,
+    active: boolean|undefined;
+}
+
 export interface Home {
     content: string[];
-    carousel: string[];
+    carousel: Image[];
     links: ExternalLinks[];
 }

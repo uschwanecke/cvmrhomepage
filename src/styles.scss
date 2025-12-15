@@ -14,3 +14,13 @@ p {
 }
 /* Importing Bootstrap SCSS file. */
 @import 'bootstrap/scss/bootstrap';
+
+ a, p > a{
+    color: rgb(194, 0, 8) !important;
+    text-decoration: none;
+    font-size: large;
+    &:hover {
+        text-decoration: underline;
+    }
+    
+}

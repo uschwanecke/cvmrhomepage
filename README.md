@@ -17,7 +17,7 @@ Run `npm run build` to build the project. The build artifacts will be stored in 
 Go to the folder assets. 
 In the content and images folder are subfolder, for each side a separate one. You can add new images and content by placing them into the respective folders and json files. 
 
-Every element in json can have an `active` flag. If it is missing or true, the content will be displayed. If it is set to false, the content will be omitted.
+Every element (except them with name content*) in json can have an `active` flag. If it is missing or true, the content will be displayed. If it is set to false, the content will be omitted.
 
 
 ## Deployment

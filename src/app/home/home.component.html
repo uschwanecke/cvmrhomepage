@@ -2,15 +2,16 @@
 <div class="d-flex justify-content-center mb-5">
 <ngb-carousel style="width: 60vw;" *ngIf="images">
 	<ng-template ngbSlide *ngFor="let im of images;let i = index" id="{{i}}">
-		<div class="picsum-img-wrapper " class="d-flex justify-content-center">
-			<img [src]="im" alt="Random first slide" />
+		<div *ngIf="im.active==undefined || im.active==true" class="picsum-img-wrapper " class="d-flex justify-content-center">
+			<img [src]="im.img" alt="Random first slide" />
 		</div>
 	</ng-template>
 </ngb-carousel>
 </div>
 
-   <p *ngFor="let text of data?.content">{{text}} 
-</p>
+   <div *ngFor="let text of data?.content">
+	<p [innerHTML]='text'></p> 
+   </div>
 
 <h6 *ngFor="let link of data?.links"><a *ngIf="link.active==undefined || link.active==true" [href]="link.url">{{link.text}}</a></h6>
 </div>
